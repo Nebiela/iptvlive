@@ -154,6 +154,12 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Gladiator-II-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-2-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Gladiator II แกลดดิเอเตอร์ 2
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/388e0f88d911fd1b62ef1151/388e0f88d911fd1b62ef1151.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Gladiator-II-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-2-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Gladiator II แกลดดิเอเตอร์ 2
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/388e0f88d911fd1b62ef1151/388e0f88d911fd1b62ef1151.m3u8
@@ -656,13 +662,13 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein1.png", Bein 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png", Bein 2 Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8
+https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3
@@ -671,21 +677,21 @@ https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8
 https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3 สำรอง ความละเอียด 720p
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3 สำรอง 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png" group-title="⚽ ดูบอลออนไลน์",True Sport 2
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="⚽ ดูบอลออนไลน์",True Sport 3  ความละเอียด 720p
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -711,12 +717,12 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="⚽ ดูบอลออนไลน์",AIS PLAY 1
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doo-tv.com/
+https://dolive.thaim3u.com/doo-tv-football-com/football-play-1/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png" group-title="⚽ ดูบอลออนไลน์",AIS PLAY 2
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doo-tv.com/
+https://dolive.thaim3u.com/doo-tv-football-com/football-play-2/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="⚽ ดูบอลออนไลน์",beIN Sport 1 Turkey
@@ -774,6 +780,73 @@ https://cdn1.googlecdn.live/4k/trueballthai2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+
+
+
+
+
+##############ballthai##################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pemqsp63g6otb9zyif6iy/trueballthai-1.png?rlkey=283unqwpyf55xuzr82h7724kc&dl=1"group-title=" BALL THAI ",Ball Thai 1
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/98j9c58ctb1okqoz7q7mb/trueballthai-2.png?rlkey=0m6l3b38i8elbjbedxax1hznt&dl=1"group-title=" BALL THAI ",Ball Thai 2
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b6ekq1b41o055awdo5pby/trueballthai-3.png?rlkey=dlq33ikm832erdfejfb09yzgv&dl=1"group-title=" BALL THAI ",Ball Thai 3
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s951u1ocbor6y0i2zrpw0/trueballthai-4.png?rlkey=xdr6v900247gdfc2l9wgs5nqe&dl=1"group-title=" BALL THAI ",Ball Thai 4
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hfy2vpopol2plk0bg11fd/trueballthai-5.png?rlkey=b8pw540eehq7a9r0g01wvxxuq&dl=1"group-title=" BALL THAI ",Ball Thai 5
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xmxuil38v3vtd55i31aqa/trueballthai-6.png?rlkey=w55rcn5py4smp1ndyr6wpzbwf&dl=1"group-title=" BALL THAI ",Ball Thai 6
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xmxuil38v3vtd55i31aqa/trueballthai-6.png?rlkey=w55rcn5py4smp1ndyr6wpzbwf&dl=1"group-title=" BALL THAI ",Ball Thai 6
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/v3p7g5k043zbougnxdwmm/trueballthai-7.png?rlkey=3u3a65zu2sruel9nuf6br5jse&dl=1"group-title=" BALL THAI ",Ball Thai 7
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lw5ptjikddcymrugi5erk/trueballthai-8.png?rlkey=mmgal7af0guttyyji4dggedl0&dl=1"group-title=" BALL THAI ",Ball Thai 8
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai8/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xo57pzrsw14fd9wf2e3pc/trueballthai-9.png?rlkey=uvbrbfkor4mqkfv1atbohsfex&dl=1"group-title=" BALL THAI ",Ball Thai 9
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/trueballthai9/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6u6di72u3vxk6ecz9krql/siamsport-1.png?rlkey=gje0dj7at79dsy2jk2129u97o&dl=1"group-title=" BALL THAI ",Siamsport 1
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/dooballx/siamsport1/chunks.m3u8
+
+
+
 
 
 
