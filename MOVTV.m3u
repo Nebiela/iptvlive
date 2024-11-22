@@ -662,19 +662,19 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png", Bein 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ufabetcompany.plus/
-https://dolive.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCAzOjM3OjU0IEFNJmhhc2hfdmFsdWU9aVNQYld3WTkyek9GelVUUWhhZVQ0QT09JnZhbGlkbWludXRlcz02MA==
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png", Bein 2 Arabic
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png", Bein 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png", Bein 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCAzOjM3OjU0IEFNJmhhc2hfdmFsdWU9aVNQYld3WTkyek9GelVUUWhhZVQ0QT09JnZhbGlkbWludXRlcz02MA==
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/bein3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNCA5OjQyOjI2IFBNJmhhc2hfdmFsdWU9N3lqUVIyamtpT01TU0grUTNPaDRTdz09JnZhbGlkbWludXRlcz0xJmlkPWZsb29yKG1pY3JvdGltZSh0cnVlKSAqIDEwMDApJnN0cm1fbGVuPTE3
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png", Bein 3 สำรอง 
@@ -683,10 +683,15 @@ https://dolive.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/football-play-1/play
 https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 480p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd1_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png" group-title="⚽ ดูบอลออนไลน์",True Sport 2
