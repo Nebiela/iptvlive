@@ -154,6 +154,20 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/11/2844.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 I Am Legend ข้าคือตำนานพิฆาตมหากาฬ 
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-t6dsgrlt-master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/10/2524.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Thor:Ragnarok ศึกอวสานเทพเจ้า 
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-6v877sjj-master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/11/Sleeping-Dogs-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A-2024.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Sleeping Dogs อย่าแหย่หมาหลับ (2024)
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-sftb7vkv-master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Gladiator-II-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-2-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Gladiator II แกลดดิเอเตอร์ 2
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -683,18 +697,18 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/bein3/playlist.m3u8?wmsAuthSign=c2V
 https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 480p
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 ความละเอียด 720p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd1_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 720p
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1 ความละเอียด 720p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png" group-title="⚽ ดูบอลออนไลน์",True Sport 2
+#EXTINF:-1 tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="⚽ ดูบอลออนไลน์",True Sport 2
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8
 
@@ -731,17 +745,17 @@ https://dolive.thaim3u.com/doo-tv-football-com/football-play-2/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="⚽ ดูบอลออนไลน์",beIN Sport 1 Turkey
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCAzOjM3OjU0IEFNJmhhc2hfdmFsdWU9aVNQYld3WTkyek9GelVUUWhhZVQ0QT09JnZhbGlkbWludXRlcz02MA==
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/i2ZHH3oJddcrsaEF5xb9NnklKGpLve0tv-station-tu-bein-sports-2-641.png" group-title="⚽ ดูบอลออนไลน์",beIN Sport 2 Turkey
-#EXTVLCOPT:http-referrer=https://ufabetcompany.app
-https://dolive.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCAzOjM3OjU0IEFNJmhhc2hfdmFsdWU9aVNQYld3WTkyek9GelVUUWhhZVQ0QT09JnZhbGlkbWludXRlcz02MA==
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.racingtv.com/static/media/default-offer-image.cfc6a9c06e030e6ff89c.jpg" group-title="⚽ ดูบอลออนไลน์",Racing UK (UK)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664529562.png" group-title="⚽ ดูบอลออนไลน์",SPOTV
@@ -857,6 +871,16 @@ https://cdn1.googlecdn.live/dooballx/siamsport1/chunks.m3u8
 
 
 ##############moviefixnet##################
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://doomovie.online/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-2024.jpg",AAA 2024) Christmas เจอกันคริสต์มาสหน้า (2024) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-jsamq2ga-master.m3u8
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://doomovie.online/wp-content/uploads/2024/11/Pedro-Paramo-2024-NETFLIX-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",AAA 2024) Pedro Páramo (2024) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-on6j0mgp-master.m3u8
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Shadow-Strays-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2024-187x269.jpg",AAA 2024)นักฆ่าเงาล่าทรชน (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1178,7 +1202,7 @@ Given The Movie
 https://live.lnwplayer.com/hls/01d4c0a0-573d-4bf2-8d0b-62015ae443c4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Wild-Robot-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" ,AA-(2024) Wild Robot หุ่นยนต์ผจญภัย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Wild-Robot-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" ,FF-(2024) Wild Robot หุ่นยนต์ผจญภัย
 Given The Movie
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8
@@ -1200,7 +1224,7 @@ https://main.24playerhd.com/newplaylist/1331338612cbc1e645a7dfd9/1331338612cbc1e
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb.m3u8
 
-#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="👦 หนังการ์ตูน" ,A-โดราเอมอน เดอะ มูฟวี่
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="👦 หนังการ์ตูน" ,FF-โดราเอมอน เดอะ มูฟวี่
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-u8j2gs0g-master.m3u8
 
@@ -1441,7 +1465,7 @@ https://main.24playerhd.com/newplaylist/73ce7aa7275554f31fc6991e/73ce7aa7275554f
 https://ezycdn.com/playlist-58igvist-master.m3u8
 
 
-#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://doomovie.online/wp-content/uploads/2023/11/%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-Congrats-My-Ex-2023-187x280.jpg",A- ลุ้นรักป่วน ก๊วนแฟนเก่า
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://doomovie.online/wp-content/uploads/2023/11/%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-Congrats-My-Ex-2023-187x280.jpg",FF- ลุ้นรักป่วน ก๊วนแฟนเก่า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-fu5eps0l-master.m3u8
@@ -1463,13 +1487,13 @@ https://main.24playerhd.com/newplaylist/6753a74247753c2a3e94a5d0/6753a74247753c2
 https://main.24playerhd.com/newplaylist/d91ef4897a94001f8ea3241f/d91ef4897a94001f8ea3241f.m3u8
 
 
-#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/My-Boss-My-Hero-2001-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-187x269.jpg",A- สั่งเจ้าพ่อไปเรียนหนังสือ
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/My-Boss-My-Hero-2001-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-187x269.jpg",FF- สั่งเจ้าพ่อไปเรียนหนังสือ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/396d612099ac4b5a3fe4300b/396d612099ac4b5a3fe4300b.m3u8
 
 
-#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/22-Jump-Street-2014-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",A- สายลับรั่วป่วนมหาลัย
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/22-Jump-Street-2014-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",FF- สายลับรั่วป่วนมหาลัย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324cfc33705dd.m3u8
@@ -1485,6 +1509,11 @@ https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324c
 
 
 ##############cina mov#######################
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024-187x280.jpg" group-title="🚩 ดูหนังจีน China" ,AA2024) ยุทธจักรของคนเลว (2024)
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-r2nb1c6p-master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Legend-2024-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.webp" group-title="🚩 ดูหนังจีน China" ,AA2024) พลิกตำนานฟัดทะลุเวลา
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -2048,6 +2077,24 @@ https://surrit.com/6aaf4a2c-2346-402e-be8d-e8f76918e1f2/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdndoe.xyz/files/wm/237191_1682733280.jpg",Z-Z FSDSS-872
 https://surrit.com/13c71a6d-3371-490d-b4d8-1093aa0b314e/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/1/e1/mvsd-512/cover.jpg",Z-Z MVSD-512
+https://surrit.com/e920ff15-bea8-48bc-bd78-1a68c3e5e87b/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/0/50/ebod-911/cover.jpg",Z-Z EBOD-911
+https://surrit.com/d0fd5ff1-c40e-4a00-bf25-53fd1188109d/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/2/42/jufe-361/cover.jpg",Z-Z JUFE-361
+https://surrit.com/456ba46b-9490-4fc2-b083-b68a961320df/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/c/5c/jul-941/cover.jpg",Z-Z JUL-941
+https://surrit.com/c4276460-b7b2-4675-99e9-586c0bfd2402/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/c/5c/jul-941/cover.jpg",Z-Z JUL-941
+https://surrit.com/c4276460-b7b2-4675-99e9-586c0bfd2402/playlist.m3u8
+
+
+
 
 
 ######movieAll##########
