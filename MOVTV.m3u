@@ -1107,20 +1107,30 @@ https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="🎞️ หนังภาพยนตร์" , TRUE FILM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp" group-title="🎞️ หนังภาพยนตร์" , TRUE thai FILM
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp" group-title="🎞️ หนังภาพยนตร์" , TRUE thai FILM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.rentm3u8.com/images/png/hd-asianmore.png" group-title="🎞️ หนังภาพยนตร์" , ASIAN MORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.rentm3u8.com/images/png/hd-xzyte.png" group-title="🎞️ หนังภาพยนตร์" , X-ZYTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="🎞️ หนังภาพยนตร์" , CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg" group-title="🎞️ หนังภาพยนตร์" , TVB Thai
@@ -1136,8 +1146,8 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
@@ -1148,8 +1158,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
