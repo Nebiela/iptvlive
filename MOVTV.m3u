@@ -624,27 +624,30 @@ https://live.lnwplayer.com/hls/825ddb2e-40d1-4b8c-a29b-5a8d5d3c75f0/index.m3u8
 #############sp###############
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8
-
-
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 สำรอง 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 สำรอง 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 480p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1  สำรอง 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 สำรอง 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499673.png",A- PREMIER 2
@@ -744,9 +747,9 @@ https://dolive.thaim3u.com/doo-tv-football-com/football-play-1/playlist.m3u8?
 https://dolive.thaim3u.com/doo-tv-football-com/football-play-2/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="⚽ ดูบอลออนไลน์",beIN Sport 1 Turkey
+#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="⚽ ดูบอลออนไลน์",beIN Sport 1
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="⚽ ดูบอลออนไลน์",beIN Sport premium
 #EXTVLCOPT:http-referrer=
