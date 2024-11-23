@@ -748,14 +748,18 @@ https://dolive.thaim3u.com/doo-tv-football-com/football-play-2/playlist.m3u8?
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="⚽ ดูบอลออนไลน์",beIN Sport premium
+#EXTVLCOPT:http-referrer=
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/i2ZHH3oJddcrsaEF5xb9NnklKGpLve0tv-station-tu-bein-sports-2-641.png" group-title="⚽ ดูบอลออนไลน์",beIN Sport 2 Turkey
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.racingtv.com/static/media/default-offer-image.cfc6a9c06e030e6ff89c.jpg" group-title="⚽ ดูบอลออนไลน์",Racing UK (UK)
+#EXTINF:-1 tvg-logo="https://www.racingtv.com/static/media/default-offer-image.cfc6a9c06e030e6ff89c.jpg" group-title="⚽ ดูบอลออนไลน์",Racing 
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664529562.png" group-title="⚽ ดูบอลออนไลน์",SPOTV
@@ -801,6 +805,58 @@ https://cdn1.googlecdn.live/4k/trueballthai2/playlist.m3u8
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfeHmJ2t-3a88JMQqiULMGYHXL4Z9NzEGWg&usqp=CAU",ONEGOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BBCNEWS.png",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_1499968=1-mp4a_208000_eng=2.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.imgur.com/tGTVcVe.jpg",Sports TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.imgur.com/uJosqHh.png",beIN SPORTS XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.imgur.com/O9BapV9.png",FOX_Sports_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",MUTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",MUTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
 
@@ -1105,32 +1161,32 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="🎞️ หนังภาพยนตร์" , TRUE FILM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png" group-title="🎞️ หนังภาพยนตร์" , มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png" group-title="🎞️ หนังภาพยนตร์" , True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp" group-title="🎞️ หนังภาพยนตร์" , TRUE thai FILM 2
+#EXTINF:-1 tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_135.png" group-title="🎞️ หนังภาพยนตร์" , MONO29 Eng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.rentm3u8.com/images/png/hd-asianmore.png" group-title="🎞️ หนังภาพยนตร์" , ASIAN MORE
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_original.png" group-title="🎞️ หนังภาพยนตร์" ,Media TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
+http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.rentm3u8.com/images/png/hd-xzyte.png" group-title="🎞️ หนังภาพยนตร์" , X-ZYTE
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg" group-title="🎞️ หนังภาพยนตร์" , ลิโด้ Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="🎞️ หนังภาพยนตร์" , CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg" group-title="🎞️ หนังภาพยนตร์" , TVB Thai
@@ -1145,9 +1201,9 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_f74aMjmg5Q6TrVRSivyN9A2BoUpx8dcL.jpg",สยาม Channel
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e106.google-streams.com:9306/v5/IEmHncWCoMutQU0tcfHWrw/1732278258/9d256f2daddfaa657673b62aad3ca289/Nac-QbTPbfs6CSkkDluuPg/1732288938/live/vx-origin/hd-axn_720/playlist.m3u8
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
@@ -1192,6 +1248,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3329cc1b-d91f-4194-b516-92fbd807049b
 
 
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_Acz9MY3rbg2NhlfGweVJp8QLPt6qkRBa.jpg",MV Lao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
 
