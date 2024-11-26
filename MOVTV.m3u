@@ -154,6 +154,19 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Get-Fast-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Get Fast (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/f6f6f73e-b76f-4bb4-ba06-fc0aead4e726/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/GTMAX-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 GTMAX (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/687c1f26-b750-4382-a9c1-3dc9cfe97c61/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Dune-Prophecy.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 ดูน คำพยากรณ์แห่งทราย
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/0208aeaa-9446-4bd5-a982-ac32446f4cd4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/11/2844.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 I Am Legend ข้าคือตำนานพิฆาตมหากาฬ 
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-t6dsgrlt-master.m3u8
@@ -866,6 +879,56 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTVLCOPT:http-referrer=
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/3BBsports1.png" group-title="⚽ ดูบอลออนไลน์", 3BB Sport One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/WWE.png" group-title="⚽ ดูบอลออนไลน์", WWE
+http://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",True Premier HD1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",True Premier HD1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",True Premier HD2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",True Premier HD2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sport HD1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sport HD2  สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSport HD1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSport HD2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
+
 
 
 ##############ballthai##################
@@ -935,6 +998,19 @@ https://cdn1.googlecdn.live/dooballx/siamsport1/chunks.m3u8
 
 
 ##############moviefixnet##################
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/The-Merry-Gentlemen-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B9%80%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B9%81%E0%B8%A1%E0%B8%99.webp",AAA 2024) เดอะ เมอร์รี่ NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/32251082-0987-4caa-81ad-6576d28de182/index.m3u8
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/The-Helicopter-Heist-2024-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%AE%E0%B8%AD.webp",AAA 2024) ปล้นทะลุฮอ EP1 NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/fecfd634-9619-41cb-9cef-5eb707048fc7/index.m3u8
+
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://doomovie.online/wp-content/uploads/2024/11/Meet-Me-Next-Christmas-%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-2024.jpg",AAA 2024) Christmas เจอกันคริสต์มาสหน้า (2024) NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1153,9 +1229,21 @@ https://live.lnwplayer.com/hls/f08a48c7-7bea-42b5-8345-951abe1c763c/index.m3u8
 
 ############ movie tv###########################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/HBO.png"group-title="🎞️ หนังภาพยนตร์", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/HBOC.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png" group-title="🎞️ หนังภาพยนตร์",แอดทีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+http://cdn12jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🎞️ หนังภาพยนตร์" , MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -1222,8 +1310,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball66x.com/
-https://e114.google-streams.com:9314/v5/hh6EbL5h1lClCL1KKIaK-Q/1732278532/9ef172c8538945ad462ecab0870d4570/VyK8K5KuEyVNLxr4Ylkk1w/1732289212/live/vx-origin/hd-asianmore_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+https://streamer1.nexgen.bz/HBO2/index.m3u8
+
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
