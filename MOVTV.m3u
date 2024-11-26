@@ -803,14 +803,14 @@ https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.i-pic.info/i/sX02853792.png",TRUE BALL THAI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/trueballthai1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.i-pic.info/i/Fk36853791.png",TRUE BALL THAI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/trueballthai2/playlist.m3u8
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1717257614.png",TRUE TENNIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -933,13 +933,13 @@ https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" ,ฟุตบอลไทย 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/trueballthai1/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k-tv/
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",ฟุตบอลไทย 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/trueballthai2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k-tv/
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1709380646.png",สยามสปอร์ต 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
