@@ -187,9 +187,6 @@ https://ezycdn.com/playlist-sftb7vkv-master.m3u8
 https://main.24playerhd.com/newplaylist/388e0f88d911fd1b62ef1151/388e0f88d911fd1b62ef1151.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Gladiator-II-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-2-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Gladiator II แกลดดิเอเตอร์ 2
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-https://main.24playerhd.com/newplaylist/388e0f88d911fd1b62ef1151/388e0f88d911fd1b62ef1151.m3u8
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Red-One-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 เรดวัน Zoom
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -251,7 +248,7 @@ https://live.lnwplayer.com/hls/5a7aecb5-ed02-4bf5-80dd-afc15a337379/index.m3u8
 https://live.lnwplayer.com/hls/512aaaea-9c02-428b-8e3d-647a9bcb58dc/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Death-Whisperer-2-2024-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A ธี่หยด 2 (Zoom) Death Whisperer 2 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Death-Whisperer-2-2024-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,CC-C ธี่หยด 2 (Zoom) Death Whisperer 2 
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/c3b04810-0ae5-4871-b604-5def5fc6cb6c/index.m3u8
 
@@ -879,12 +876,12 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTVLCOPT:http-referrer=
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/3BBsports1.png" group-title="⚽ ดูบอลออนไลน์", 3BB Sport One
+#EXTINF:-1 tvg-id="" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png" group-title="⚽ ดูบอลออนไลน์", 3BB Sport One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/WWE.png" group-title="⚽ ดูบอลออนไลน์", WWE
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png" group-title="⚽ ดูบอลออนไลน์", WWE
 http://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
@@ -929,6 +926,30 @@ https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSport HD2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" ,ฟุตบอลไทย 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai1/chunks.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",ฟุตบอลไทย 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai2/chunks.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SSport1.png",สยามสปอร์ต 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SSport2.png",สยามสปอร์ต 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
 
 
 ##############ballthai##################
@@ -1229,12 +1250,12 @@ https://live.lnwplayer.com/hls/f08a48c7-7bea-42b5-8345-951abe1c763c/index.m3u8
 
 ############ movie tv###########################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/HBO.png"group-title="🎞️ หนังภาพยนตร์", HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png"group-title="🎞️ หนังภาพยนตร์", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/HBOC.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
@@ -1292,7 +1313,7 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="🎞️ หนังภาพยนตร์" ,MANGORN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png" group-title="🎞️ หนังภาพยนตร์" ,MANGORN
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
@@ -1308,7 +1329,7 @@ https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO 2 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://streamer1.nexgen.bz/HBO2/index.m3u8
@@ -2265,6 +2286,14 @@ https://surrit.com/c4276460-b7b2-4675-99e9-586c0bfd2402/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.avfever.net/images/c/5c/jul-941/cover.jpg",Z-Z JUL-941
 https://surrit.com/c4276460-b7b2-4675-99e9-586c0bfd2402/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/JUQ-997.jpg",Z-Z JUQ-997 
+https://surrit.com/95dcf4a7-e7ee-4054-bd14-065f92ea3a68/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUL-858.webp",Z-Z JUL-858
+https://surrit.com/12635a43-7afc-4b4f-9763-9295b192badf/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUL-821.webp",Z-Z JUL-821 
+https://surrit.com/c01df123-222d-4979-8e9a-756847df020e/playlist.m3u8
 
 
 
