@@ -941,77 +941,43 @@ https://cdn1.googlecdn.live/4k/trueballthai1/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/trueballthai2/chunks.m3u8
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SSport1.png",สยามสปอร์ต 1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1709380646.png",สยามสปอร์ต 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://raw.githubusercontent.com/shudder40/111120/main/SSport2.png",สยามสปอร์ต 2
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1709380657.png",สยามสปอร์ต 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1709380667.png",สยามสปอร์ต 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport3/playlist.m3u8
 
-##############ballthai##################
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1709380678.png",สยามสปอร์ต 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png" group-title="⚽ ดูบอลออนไลน์", Outdoor HD
+http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/master.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pemqsp63g6otb9zyif6iy/trueballthai-1.png?rlkey=283unqwpyf55xuzr82h7724kc&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 1
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/98j9c58ctb1okqoz7q7mb/trueballthai-2.png?rlkey=0m6l3b38i8elbjbedxax1hznt&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 2
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b6ekq1b41o055awdo5pby/trueballthai-3.png?rlkey=dlq33ikm832erdfejfb09yzgv&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 3
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s951u1ocbor6y0i2zrpw0/trueballthai-4.png?rlkey=xdr6v900247gdfc2l9wgs5nqe&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 4
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hfy2vpopol2plk0bg11fd/trueballthai-5.png?rlkey=b8pw540eehq7a9r0g01wvxxuq&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 5
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xmxuil38v3vtd55i31aqa/trueballthai-6.png?rlkey=w55rcn5py4smp1ndyr6wpzbwf&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 6
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xmxuil38v3vtd55i31aqa/trueballthai-6.png?rlkey=w55rcn5py4smp1ndyr6wpzbwf&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 6
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/v3p7g5k043zbougnxdwmm/trueballthai-7.png?rlkey=3u3a65zu2sruel9nuf6br5jse&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 7
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai7/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lw5ptjikddcymrugi5erk/trueballthai-8.png?rlkey=mmgal7af0guttyyji4dggedl0&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 8
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai8/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xo57pzrsw14fd9wf2e3pc/trueballthai-9.png?rlkey=uvbrbfkor4mqkfv1atbohsfex&dl=1"group-title=" 🥇BALL THAI ",Ball Thai 9
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/trueballthai9/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6u6di72u3vxk6ecz9krql/siamsport-1.png?rlkey=gje0dj7at79dsy2jk2129u97o&dl=1"group-title=" 🥇BALL THAI ",Siamsport 1
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/dooballx/siamsport1/chunks.m3u8
-
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://offer.racingamerica.com/wp-content/uploads/2023/04/RacingAmerica-FullColor-Registered-1024x342.png",Racing America
+https://racingamerica-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/640px-GAORA_SPORTS_logo.svg.png",Gaora Sports
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.jcom.co.jp/service/tv/channel/list/images_v10/logo/logo_golfnetwork.png",Golf Network
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png",J Sports 1		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png",J Sports 2		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png",J Sports 3		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",J Sports 4		
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 
@@ -1334,6 +1300,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTVLCOPT:http-referrer=
 https://streamer1.nexgen.bz/HBO2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🎞️ หนังภาพยนตร์", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ หนังภาพยนตร์", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
 
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
@@ -1376,6 +1352,18 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
+http://cdn12jtedge.indihometv.com/joss/133/hits/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png",HITS MOVIE
+http://cdn12jtedge.indihometv.com/joss/133/hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+http://cdn12jtedge.indihometv.com/joss/194/maxstream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC
+http://cdn12jtedge.indihometv.com/joss/133/tlc/playlist.m3u8
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์"  tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",WARNER TV
+http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
 
 
 ###########tvKid######################
