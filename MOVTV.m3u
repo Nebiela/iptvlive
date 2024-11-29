@@ -154,6 +154,26 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%9B-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 แดนสาป
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Zombieverse-Season-2-2024-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024  ซอมบี้เวิร์ส ซีซั่น 2
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/eeb5dbae-9992-4080-bd0e-64703ec6e4fc/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/The-Fiery-Priest-2-2024-%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 บาทหลวงเลือดระอุ 2
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/15845957-31e4-402a-a8c8-89763f299430/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Time-Cut-2024-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Time Cut (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/7ad12675-a128-4b86-920e-1e857506bc06/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Get-Fast-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Get Fast (2024)
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/f6f6f73e-b76f-4bb4-ba06-fc0aead4e726/index.m3u8
@@ -985,6 +1005,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 
 ##############moviefixnet##################
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%9B-187x269.png",AAA 2024) แดนสาป NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Buy-Now-The-Shopping-Conspiracy-%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%A2-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%9B-2024-187x269.jpg",AAA 2024)  ซื้อเลย กับดักให้ช้อป (2024) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/d61aedc4b81336d040c384c2/d61aedc4b81336d040c384c2.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/The-Merry-Gentlemen-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B9%80%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B9%81%E0%B8%A1%E0%B8%99.webp",AAA 2024) เดอะ เมอร์รี่ NETFLIX
@@ -2283,6 +2313,14 @@ https://surrit.com/12635a43-7afc-4b4f-9763-9295b192badf/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUL-821.webp",Z-Z JUL-821 
 https://surrit.com/c01df123-222d-4979-8e9a-756847df020e/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.pornfhd.com/digital/video/jul00647/jul00647pl.jpg",Z-Z JUL-647
+https://surrit.com/0213240e-a3d3-43f6-a167-112749aa4851/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUQ-495.webp",Z-Z JUQ-495
+https://surrit.com/26add150-241d-4990-88f7-28f78eb633e0/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUQ-495.webp",Z-Z ROE-147
+https://surrit.com/b081b115-bbb3-4b02-9dbd-a6ea40fa74d5/playlist.m3u8
 
 
 
