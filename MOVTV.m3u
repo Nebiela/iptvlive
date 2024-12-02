@@ -154,6 +154,14 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Operation-Undead-2024-%E0%B8%8A.%E0%B8%9E.%E0%B9%91-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024  ช.พ.๑ สมรภูมิคืนชีพ
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/dd7e1fbd-4a35-4d20-81b8-6518e69de215/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Pimpinero-Blood-and-Oil-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 ล่าแค้นแดนน้ำมันเถื่อน
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/d13bdb30-f872-4dab-9068-11130a9b43e5/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%9B-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 แดนสาป
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -1006,6 +1014,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 ##############moviefixnet##################
 
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/The-Cage-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%84%E0%B8%88.webp",AAA 2024)  เดอะ เคจ EP.1 NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/e666948b-3778-4762-a571-6f912586393f/index.m3u8
+
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%9B-187x269.png",AAA 2024) แดนสาป NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -1397,6 +1411,15 @@ http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Ultraman-Rising-2024-%E0%B8%AD%E0%B8%B8%E0%B8%A5%E0%B8%95%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) อุลตร้าแมน ผงาด
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/b8ed4604-6d59-4888-9c1d-0e7987679bfe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Moana-2-2024-%E0%B9%82%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B9%88%E0%B8%B2-2.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024)  โมอาน่า 2
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/8b5b38ff-ec83-4d55-a5a8-3921fb75c9d7/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/My-Hero-Academia-Youre-Next-%E0%B8%A1%E0%B8%B2%E0%B8%A2-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-%E0%B8%AD%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2-2024-187x269.png" group-title="👦 หนังการ์ตูน" ,AA-AA(2024)  Academia You’re Next มาย ฮีโร่ อคาเดเมีย
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
