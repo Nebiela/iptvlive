@@ -154,6 +154,12 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Nutcrackers-2024-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024  Nutcrackers (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/e21b082ed817ef9f251f5710/e21b082ed817ef9f251f5710.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Operation-Undead-2024-%E0%B8%8A.%E0%B8%9E.%E0%B9%91-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024  ช.พ.๑ สมรภูมิคืนชีพ
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://baxplay.com/hls/dd7e1fbd-4a35-4d20-81b8-6518e69de215/index.m3u8
@@ -238,7 +244,7 @@ https://live.lnwplayer.com/hls/35b76835-610e-458f-842d-5c1fd8749928/index.m3u8
 https://live.lnwplayer.com/hls/0385f2d1-0ffd-49b9-84c0-d0ad82d95d26/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Freedom-Libre-2024-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA (2024) จอมโจรใจเสรี
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Freedom-Libre-2024-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5.webp" group-title="🎬 ดูหนังใหม่ 2024" ,FF-HH (2024) จอมโจรใจเสรี
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/4f6a154b-1923-495a-b384-b72e16a7056f/index.m3u8
 
@@ -300,7 +306,7 @@ https://live.lnwplayer.com/hls/4c1bb93a-d93c-41e6-853b-aa0ce68e452e/index.m3u8
 https://live.lnwplayer.com/hls/d140d2d2-2ecd-479f-84f6-e76eebcccf86/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A1-3-Haunted-Universities-3-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A เทอม 3 Haunted 2024
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A1-3-Haunted-Universities-3-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,FF-F เทอม 3 Haunted 2024
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
 
@@ -318,7 +324,7 @@ https://live.lnwplayer.com/hls/a0b5ba47-b3d8-4a89-8e8c-ab492f3baeca/index.m3u8
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/b15370af-b5fe-4416-abcf-067f85d1f05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Hellboy-The-Crooked-Man-2024-%E0%B9%80%E0%B8%AE%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A2-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81-4.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A เฮลล์บอย ฮีโร่พันธุ์นรก 4
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Hellboy-The-Crooked-Man-2024-%E0%B9%80%E0%B8%AE%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A2-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81-4.webp" group-title="🎬 ดูหนังใหม่ 2024" ,FF-F เฮลล์บอย ฮีโร่พันธุ์นรก 4
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/78e25349-a781-471d-8911-2e8a864620a9/index.m3u8
 
@@ -389,7 +395,7 @@ https://live.lnwplayer.com/hls/241b5492-d065-4bab-9855-e6854d893a79/index.m3u8
 https://live.lnwplayer.com/hls/18b4411c-0b60-4859-bb79-1618dfd5b4d0/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Bangkok-Breaking-Heaven-and-Hell-2024-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A ฝ่านรกเมืองเทวดา Bangkok
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Bangkok-Breaking-Heaven-and-Hell-2024-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,FF-FF ฝ่านรกเมืองเทวดา Bangkok
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/fbaa2eb2-4eaf-4ba2-b8f0-0fdd800977a3/index.m3u8
 
@@ -1157,7 +1163,7 @@ https://live.lnwplayer.com/hls/9e1e60df-f9ee-4bb4-b367-433297bb4aa0/index.m3u8
 https://live.lnwplayer.com/hls/a82a2d92-be9e-423a-adbe-1dd14bf00e28/index.m3u8
 
 
-#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",A- CTRL (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",FF-F CTRL (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/d78bdecf-658a-43de-9d30-65b74b699bc7/index.m3u8
@@ -1213,7 +1219,7 @@ https://main.24playerhd.com/newplaylist/2492527afd16cf717160e2ad/2492527afd16cf7
 https://main.24playerhd.com/newplaylist/664d6ed1f912b4095876f03a/664d6ed1f912b4095876f03a.m3u8
 
 
-#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Love-Next-Door-300x450.jpg",(2024) รักอยู่ประตูถัดไป
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Love-Next-Door-300x450.jpg",FF-FF (2024) รักอยู่ประตูถัดไป
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/87cdde6ff65705b0cbd4d19c/87cdde6ff65705b0cbd4d19c.m3u8
@@ -1411,6 +1417,10 @@ http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/12/Spellbound-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%9B-2024-NETFLIX.jpg" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) ผจญภัยแดนต้องสาป (2024) NETFLIX
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-nq06qa70-master.m3u8
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Ultraman-Rising-2024-%E0%B8%AD%E0%B8%B8%E0%B8%A5%E0%B8%95%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) อุลตร้าแมน ผงาด
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -1743,6 +1753,19 @@ https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324c
 
 
 ##############cina mov#######################
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/11/A-Place-Called-Silence-2024-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg" group-title="🚩 ดูหนังจีน China" ,AA2024) A Place Called Silence (2024)
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-al9inl3-master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,AA2024) นักดาบคนแปลกหน้า (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/a51f5284c7a7c465db37b1a4/a51f5284c7a7c465db37b1a4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Legend-of-Shu-Mountain-Sealing-Demons-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2-187x269.png" group-title="🚩 ดูหนังจีน China" ,AA2024) ตำนานผนึกปีศาจ Sound Track (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/02e82b084ac60e787f2d7e8d/02e82b084ac60e787f2d7e8d.m3u8
 
 #EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024-187x280.jpg" group-title="🚩 ดูหนังจีน China" ,AA2024) ยุทธจักรของคนเลว (2024)
 #EXTVLCOPT:http-referrer=https://doomovie.online/
@@ -2344,6 +2367,16 @@ https://surrit.com/26add150-241d-4990-88f7-28f78eb633e0/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUQ-495.webp",Z-Z ROE-147
 https://surrit.com/b081b115-bbb3-4b02-9dbd-a6ea40fa74d5/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/GBSA-014.jpg",Z-Z GBSA-014
+https://surrit.com/98f21a0f-c287-48cf-974d-e3e928974e91/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/gbsa00068/gbsa00068pl.jpg",Z-Z GBSA-068
+https://surrit.com/8c5956be-60c4-4280-ae99-1d90efe2932a/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xvsr-484/cover-n.jpg",Z-Z MAG-057
+https://surrit.com/90b7fe2e-22f8-4392-81bf-db691299c96c/playlist.m3u8
+
 
 
 
