@@ -1020,6 +1020,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 ##############moviefixnet##################
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Jake-Paul-vs.-Mike-Tyson-2024-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B9%80%E0%B8%88%E0%B8%84-%E0%B8%9E%E0%B8%AD%E0%B8%A5-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0-%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B9%8C-%E0%B9%84%E0%B8%97%E0%B8%AA%E0%B8%B1%E0%B8%99.webp",AAA 2024) Jake Paul vs. Mike Tyson Ep1 (2024) NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/87e2f2c3-43de-4be4-aada-bc403341702c/index.m3u8
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Asaf-2024-%E0%B8%AD%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%9F-%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87.webp",AAA 2024)  อาซาฟ คนจริง EP1 NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/ad6ad74e-7a35-4b59-aa22-ba856afb9445/index.m3u8
+
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/The-Cage-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%84%E0%B8%88.webp",AAA 2024)  เดอะ เคจ EP.1 NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1417,6 +1427,10 @@ http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Tokyo-Override-2024-%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B9%8C.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) โตเกียว โอเวอร์ไรด์ EP.1 (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://baxplay.com/hls/8fb13ab5-7821-486c-8a69-b9c7ff49da5c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/12/Spellbound-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%9B-2024-NETFLIX.jpg" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) ผจญภัยแดนต้องสาป (2024) NETFLIX
 #EXTVLCOPT:http-referrer=https://doomovie.online/
@@ -2377,7 +2391,17 @@ https://surrit.com/8c5956be-60c4-4280-ae99-1d90efe2932a/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xvsr-484/cover-n.jpg",Z-Z MAG-057
 https://surrit.com/90b7fe2e-22f8-4392-81bf-db691299c96c/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/h_101gs01997/h_101gs01997pl.jpg",Z-Z GS-1997
+https://surrit.com/64070450-42bd-4650-ab18-c208984b47c2/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/gbsa00068/gbsa00068pl.jpg",Z-Z GBSA-068
+https://surrit.com/8c5956be-60c4-4280-ae99-1d90efe2932a/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.javtiful.to/upload/xQJqb.jpg",Z-Z FC2-PPV-4581534
+https://surrit.com/26775ccf-b92f-4ec9-ac70-38099bc369a2/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://vlxx.plus/wp-content/uploads/2024/12/FC2PPV-4582095-640x360.jpg",Z-Z FC2-PPV-4582095
+https://surrit.com/c9df1bcc-0a17-466e-8853-56dd68acc6b7/playlist.m3u8
 
 
 ######movieAll##########
