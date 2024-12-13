@@ -154,6 +154,14 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Shell-Girl-2024-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA สตรีแกร่งร่างเหล็ก (2024) เสียง : Sound Track
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/9946582960163fec25c9b0b3/9946582960163fec25c9b0b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/I-the-Executioner-2024-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9A-1-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 คู่เดือดนรกต้องกราบ (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5db679ae9b953a6a57e5489b/5db679ae9b953a6a57e5489b.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Striking-Rescue-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E2%80%8B-%E0%B8%8B%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024  Striking Rescue คนเดือด​ ซัดนรก (2024)
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/39c4722ac51bf2184f5dd67f/39c4722ac51bf2184f5dd67f.m3u8
@@ -1032,6 +1040,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 ##############moviefixnet##################
 
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Childrens-Train-2024-%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81-187x269.png",AAA(2024) รถไฟขนเด็ก NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5188d0ea1cd3d2663c0aa2b8/5188d0ea1cd3d2663c0aa2b8.m3u8
+
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Mary-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-2024-187x269.jpg",AAA 2024) Mary มารีย์ (2024) NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -1444,6 +1458,10 @@ http://cdn12jtedge.indihometv.com/atm/hlsv3/warner/playlist.m3u8
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Lord-of-the-Rings-The-War-of-the-Rohirrim-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B8%AD%E0%B8%AD%E0%B8%9F-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%AE%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1-1-187x269.png" group-title="👦 หนังการ์ตูน" ,AA-AA(2024)  เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกแห่งโรฮิริม (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/f0071b0fed64584cc07bae11/f0071b0fed64584cc07bae11.m3u8
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/12/Tokyo-Override-2024-%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B9%8C.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) โตเกียว โอเวอร์ไรด์ EP.1 (2024)
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -2425,6 +2443,12 @@ https://surrit.com/acd6fc59-f023-45f9-ab5d-d68c4747b46f/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/KAMEF-090.jpg",Z-Z KAMEF-090
 https://surrit.com/8b83b2e8-663b-41a9-8ee2-942dcd78e7cd/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JRZE-018.webp",Z-Z JRZE-018
+https://surrit.com/2660f357-bf0d-46e2-9ea8-02a0299edd19/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.tonglinjunye.com/wp-content/uploads/2024/05/2_1-16.png",Z-Z JUTA-143
+https://surrit.com/7240524f-a64c-4c1d-aef9-c523fb655f10/playlist.m3u8
 
 
 
