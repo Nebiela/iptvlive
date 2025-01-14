@@ -7,7 +7,7 @@
 # =======================================================
 
 
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000v/77/64/live-streaming-logo-with-play-button-vector-23277764.jpg" group-title="Streaming TV" ,A- สวัสดี สวีดัด By Edit By Neti ยินต้อนรับ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/live-streaming-logo.jpg" group-title="Streaming TV" ,A- สวัสดี สวีดัด By Edit By Neti ยินต้อนรับ
 #EXTVLCOPT:http-referrer=
 http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
 
@@ -153,6 +153,23 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 
 #############movie###############
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Shoot-It-Up-2024-%E0%B8%9B%E0%B8%B0%E0%B8%89%E0%B8%B0%E0%B8%94%E0%B8%B0-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) ปะฉะดะ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5bb3f37363d90c8d3a70dcc1/5bb3f37363d90c8d3a70dcc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B0-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) บ้านผีอิหยังวะ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/a95fee0e5aa7c2638dd70192/a95fee0e5aa7c2638dd70192.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Fury-12-Hours-2024-12-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%94-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA Fury 12 Hours (2024)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/97145daf6bc5fff92b7d6b83/97145daf6bc5fff92b7d6b83.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Panda-Plan-2024-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%94-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA  (2024) แพนด้าเด้งสู้ฟัด
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/be7109ef82e6abf94225dedf/be7109ef82e6abf94225dedf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns-2024-%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A1-1-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) วิมานหนาม
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -1159,6 +1176,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 
 ##############moviefixnet##################
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Childrens-Train-2024-%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81-187x269.png",AAA (2024) รถไฟขนเด็ก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5188d0ea1cd3d2663c0aa2b8/5188d0ea1cd3d2663c0aa2b8.m3u8
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Ad-Vitam-2025-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-187x269.png",AAA (2025) ปฏิบัติการเพื่อชีวิต
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Mary-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-2024-187x269.jpg",AAA(2024) Mary มารีย์ (2024)
