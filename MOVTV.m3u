@@ -164,6 +164,19 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99-%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA 2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาล
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/a5525ecd9721d52153303420/a5525ecd9721d52153303420.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Monkey-King-Fight-Lion-Camel-2024-%E0%B8%8B%E0%B8%B8%E0%B8%99%E0%B8%AB%E0%B8%87%E0%B8%AD%E0%B8%84%E0%B8%87-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) ซุนหงอคง ราชาวานร
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/a402968ae8d16a072685f23f/a402968ae8d16a072685f23f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Devils-Stay-2024-%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) ปีศาจปรสิต
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/8bdbbaa5261ba72096e15984/8bdbbaa5261ba72096e15984.m3u8
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2025/02/Ballot-Balota-2024-%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2024) บัตรเลือดตั้ง
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://candyxplay.com/hls/ef6aa831-c4c1-4567-9a9b-1b5cf525f13a/index.m3u8
@@ -1281,7 +1294,18 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 ##############moviefixnet##################
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2025/02/The-Witcher-Sirens-of-the-Deep-2025-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3-%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%A5%E0%B8%B6%E0%B8%81.webp",AAA (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://candyxplay.com/hls/c2c69c6d-ca5d-4bf7-9e17-e1d6e2dffd9b/index.m3u8
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2025/02/Golden-Kamuy-The-Hunt-of-Prisoners-in-Hokkaido-2025.webp",AAA (2025) วิลล่าแห่งรัก
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://candyxplay.com/hls/e4529e92-ad74-440a-90c0-932f1115432d/index.m3u8
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2025/02/Honeymoon-Crasher-Lune-de-miel-avec-ma-mere-2025-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B8%A1%E0%B8%B9%E0%B8%99.webp",AAA (2025) ตัวป่วนฮันนีมูน
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://candyxplay.com/hls/08f5d817-2f6d-471e-b22f-7f3876cae982/index.m3u8
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2025/01/The-Night-Agent-2023-214x300-1.webp",AAA The Night Agent Season 2 EP1
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -2897,6 +2921,16 @@ https://surrit.com/4e0667c7-b873-43d8-ba33-96cb68552211/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/NHDTA-808.jpg",Z-Z NHDTA-808 
 https://surrit.com/252d0659-b7a7-47d3-832f-65c42df2a16d/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/297000/297074/preview.jpg",Z-Z SONE-565 S1 
+https://surrit.com/ae3a2dbb-cf90-454a-bef1-a2b50f3b6d1d/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javtiful.com/media/videos/tmb/76273/1.jpg",Z-Z MIMK-196
+https://surrit.com/8c050e18-4ee1-4e76-87cd-ddb7ea53832c/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/NHDTA-789-UNCENSORED-LEAK.jpg",Z-Z NHDTA-789
+https://surrit.com/e1ecaf54-b047-4cb3-b6bf-118fad30fe2f/playlist.m3u8
 
 
 
