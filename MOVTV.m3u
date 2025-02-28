@@ -165,6 +165,25 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #############movie###############
 
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/The-Elite-of-Devils-2024-%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A1-1-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025) หม่อม
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/cca9a98ac99a1843d62ac1bf/cca9a98ac99a1843d62ac1bf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B9%83%E0%B8%88-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025) เส้นทางพิสูจน์ใจ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/cfc55aeedf5ed08401c6c18d/cfc55aeedf5ed08401c6c18d.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Dominion-of-Darkness-2024-%E0%B8%81%E0%B8%B1%E0%B8%A7%E0%B8%8B%E0%B8%B2-%E0%B8%9C%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%AA%E0%B9%88%E0%B8%87-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA กัวซา ผีสาปนรกส่ง
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/b3fae507c96f2430d16cb791/b3fae507c96f2430d16cb791.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Police-Modify-2024-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-1-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA ตำรวจแต่ง กำเนิดผู้พิทักษ์สันติหลุด
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/d4fa5354e4f21374b8af5cfe/d4fa5354e4f21374b8af5cfe.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-%E0%B9%80%E0%B8%9B%E0%B8%B2%E0%B8%9A%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%B9%E0%B9%88-1-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA เปาบุ้นจิ้น
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/fd0f6f830b407ec14afbc7ab/fd0f6f830b407ec14afbc7ab.m3u8
@@ -3035,7 +3054,15 @@ https://surrit.com/e650c3f8-7242-4c26-81f7-cb09ae3b4293/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/216000/216017/preview_720p.mp4.jpg",Z-Z MIAA-794 W
 https://surrit.com/872863f8-e6cb-49d0-b687-e1a0aa48f111/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/300000/300818/preview.jpg",Z-Z MEYD-964
+https://surrit.com/f6281d0a-8642-4e7f-bc76-a980526aed28/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/PRED-435.webp",Z-Z PRED-435
+https://surrit.com/6796c984-a7b2-41b3-82f3-ab2e7c9c79e0/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/JUQ-083-Uncensored-Leak.jpg",Z-Z JUQ-083
+https://surrit.com/2b645b1c-3659-4f23-b17a-365bbeb30f84/playlist.m3u8
 
 
 ######movieAll##########
