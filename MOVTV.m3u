@@ -1021,7 +1021,7 @@ https://live.lnwplayer.com/hls/825ddb2e-40d1-4b8c-a29b-5a8d5d3c75f0/index.m3u8
 https://cdn1.googlecdn.live/4k/epl1_sd/chunks.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 480p
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",B- PREMIER 1 480p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
