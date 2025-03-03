@@ -164,6 +164,16 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/The-Tenant-2024-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA ผู้เช่า (2025) 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/352868f61e55e8c4aa35b7a3/352868f61e55e8c4aa35b7a3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/The-Monkey-2025-%E0%B8%88%E0%B9%8B%E0%B8%AD%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA The Monkey (2025) ซูมตา
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/6af825e5019ce9664a8b197a/6af825e5019ce9664a8b197a.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/The-Elite-of-Devils-2024-%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A1-1-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025) หม่อม
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -1356,6 +1366,23 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 
 
 ##############moviefixnet##################
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B9%80%E0%B8%81%E0%B8%99-187x269.png",AAA  (2025) รักฉบับโคเปนเฮเกน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5965405999e56ca623ff1a3d/5965405999e56ca623ff1a3d.m3u8
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/CounterStrike-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%88%E0%B8%A3-1-187x269.png",AAA  (2025) ฝ่านรกกองโจร อ่านซับจนเวียนหัว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/80845516306b0e107027c8cf/80845516306b0e107027c8cf.m3u8
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Squad-36-2025-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2-36-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%AC-187x269.png",AAA  (2025) หน่วย 36 ตำรวจมือพระกาฬ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2025/02/Honeymoon-Crasher-Lune-de-miel-avec-ma-mere-2025-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B8%A1%E0%B8%B9%E0%B8%99.webp",AAA (2025) ตัวป่วนฮันนีมูน
@@ -3063,6 +3090,23 @@ https://surrit.com/6796c984-a7b2-41b3-82f3-ab2e7c9c79e0/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/JUQ-083-Uncensored-Leak.jpg",Z-Z JUQ-083
 https://surrit.com/2b645b1c-3659-4f23-b17a-365bbeb30f84/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.123av.com/images/4/54/miaa-890-uncensored-leaked/cover.jpg",Z-Z MIAA-890
+https://surrit.com/a8415c51-f5e3-446d-8b50-5bc7fca145e0/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.av-th.net/wp-content/uploads/2023/08/miaa934pl.jpg",Z-Z MIAA-934
+https://surrit.com/ae2d9962-22ef-4287-b034-49c483b2477a/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/JUQ-511-UNCENSORED-LEAK.jpg",Z-Z JUQ-511
+https://surrit.com/2f84fff8-fd47-4219-ac34-7d1fd85d9d31/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/MKMP-531-UNCENSORED-LEAK.jpg",Z-Z MKMP-531
+https://surrit.com/3a57a649-d82e-4706-b389-463a12f6c92f/playlist.m3u8
+
+
+
 
 
 ######movieAll##########
