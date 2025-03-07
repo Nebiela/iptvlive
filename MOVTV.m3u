@@ -164,6 +164,10 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/movie_poster/c/c16231581c2951a48ab90c42f086798a.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AAA The Pilot A Battle for Survival
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://ad2.oneplayer.online/hls/ohPlPll/file_720.mp4/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://newmovie2u.com/wp-content/uploads/2024/01/The-Beekeeper-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AAA A นรกเรียกพ่อ
 #EXTVLCOPT:http-referrer=https://newmovie2u.com/
 https://m5-txt-2.xdomovie247.com/playlist2/detail/def30baaRC98K/720/hls/index.m3u8
