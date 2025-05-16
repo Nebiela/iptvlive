@@ -164,7 +164,17 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/Wick-Is-Pain-2025.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA Wick Is Pain (2025)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://backend.movieplaythai.com/hls/516e306c82f8e187ad63b669bfa307bd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA Demon Hunters (2025) ฅนต่อยผี
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://backend.movieplaythai.com/hls/0751b1edf24b65000e6adcad1e5c80fd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B5%E0%B8%97%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA Home: Rebirth (2025) โฮมสวีทโฮม กำเนิดใหม่
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://backend.movieplaythai.com/hls/90d4a5629c0bc50ff60491bd15116389/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/04/Ash-2025-%E0%B9%81%E0%B8%AD%E0%B8%8A-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA Ash (2025) แอช ดาวมฤตยู
 #EXTVLCOPT:http-referrer=https://037hd.tv/
