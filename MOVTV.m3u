@@ -164,6 +164,16 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%AD%E0%B8%A5-%E0%B9%80%E0%B8%94%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B9%82%E0%B8%81%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025) ไฟนอล เดสติเนชั่น
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/a17dc7228c08607eb3b1fb2f/a17dc7228c08607eb3b1fb2f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/Lilo-Stitch-2025-%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%A5%E0%B9%88-%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%8A%E0%B9%8C-187x269.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025)  ลิโล่ & สติทช์
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/29b6385e8e4b71f4dc359510/29b6385e8e4b71f4dc359510.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://037hdx.tv/wp-content/uploads/2025/05/The-Inverted-Case-2025.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AA (2025) The Inverted Case (2025)
 #EXTVLCOPT:http-referrer=https://www.24-hdd.com/
 https://backend.movieplaythai.com/hls/c5bad85bf0da0c29eefbba4801d0a26f/master.m3u8
@@ -2339,6 +2349,12 @@ https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8
 
 
 ##############moviefixnet##################
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2022/11/Off-Track-2022-187x269.jpg",AAA  (2025) ออฟเทร็ค
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/dabc9c6615da780b6942b5ee/dabc9c6615da780b6942b5ee.m3u8
+
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/04/Havoc-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-187x269.png",AAA  (2025) ฝ่าหายนะครองเมือง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -5130,6 +5146,19 @@ https://surrit.com/3aea3ef7-00d5-4620-8084-247390626c40/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00332/1start00332jp-1.jpg",Z-Z START-332
 https://surrit.com/93ca1fd1-f1e7-4cba-9c7f-571238d28288/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fourhoi.com/mla-203-2/cover-n.jpg",Z-Z MLA-228
+https://surrit.com/06d9669f-b383-4f51-a59c-170aab1f219f/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fourhoi.com/start-317-uncensored-leak/cover-n.jpg",Z-Z START-317
+https://surrit.com/4acb20fd-5153-4a89-ba6f-b3f86710717a/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.javdatabase.com/covers/thumb/h_/h_1658hnhu00155ps.webp",Z-Z HNHU-155
+https://surrit.com/2cc2356d-9242-4663-aa33-dde73ab351fd/playlist.m3u8
+
+
+
 
 ######movieAll##########
 
