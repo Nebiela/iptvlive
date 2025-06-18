@@ -203,6 +203,14 @@ https://backend.movieplaythai.com/hls/516e306c82f8e187ad63b669bfa307bd/master.m3
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://backend.movieplaythai.com/hls/0751b1edf24b65000e6adcad1e5c80fd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/06/Captain-America-Brave-New-World-165x248.png" group-title="🎬 ดูหนังใหม่ 2025" , กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่ (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_468d978887409e9947691efd6620a6b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mampost.co/wp-content/uploads/2025/06/Captain-America-Brave-New-World-165x248.png" group-title="🎬 ดูหนังใหม่ 2025" , วิบัติโอเชียนเกต (2025) NETFLIX (2025)
+#EXTVLCOPT:http-referrer=https://mampost.co/
+https://dididino.online/r2playlist_8aa074ece16a78fbde94d6d9d78035bc.m3u8
+
 
 
 #############movie###############
