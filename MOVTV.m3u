@@ -86,7 +86,7 @@ https://www.livedoomovies.com:4432/02_NATION_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://www.9poto.com/wp-content/uploads/2019/06/9cde61d2826cf317f1a3c58eef6978c7-1.jpg",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
+https://s3x.apple-streams.com:9305/v5/PjcL2Z33oquOTVtHzcml5A/1750241119/9bc71f8f446dd5f23fd9a1c1fcb7290d/0LKWxIt8ek0NfC41OP4mTQ/1750251799/live/dx-origin/hd-workpoint_720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24"  tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://lh3.googleusercontent.com/-q-C_-PGl1yE/VSB1WUol58I/AAAAAAAAAY8/XaTFKmkRPvE/h120/sd24u_digi.png",True 4 U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -106,7 +106,7 @@ https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Mononext_Logo.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+https://s3x.apple-streams.com:9303/v5/2qNRUTb0MpPZj4p2QPCNMg/1750240930/9bc71f8f446dd5f23fd9a1c1fcb7290d/nf0jQ6-PKCnnKDZrQ9DsRA/1750251610/live/dx-origin/hd-mono_720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Mononext_Logo.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -123,7 +123,7 @@ https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32"  tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://www.tv360entertainment.com/wp-content/uploads/2021/06/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90-copy.png",Thairath TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+https://s3.apple-streams.com:9301/v5/-w8AVMZhTDQ-Gr1mGIVCJQ/1750241065/9eac33edbf2c6f495c3eea5329ba957e/9XYz_axjQPpbNNIrqjAeHw/1750251745/live/vx-origin/hd-thairath_720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -137,7 +137,7 @@ https://edge2a.v2h-cdn.com/hd_3/hd3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD2" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/25/Amarin_TV_HD34.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
-https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
+https://s3x.apple-streams.com:9310/v5/1ZnR_DCtPgOusFzByRw2og/1750241021/9bc71f8f446dd5f23fd9a1c1fcb7290d/H8bYDmZwo0ZXqgQnB8qCWQ/1750251701/live/vx-origin/hd-amarin_720/playlist.m3u8
 
 #EXTINF:-1 group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.jpg"",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
