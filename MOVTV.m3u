@@ -263,9 +263,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คุณลุงเก้าปราบผี (2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/6629db84ad97d8917699a160/6629db84ad97d8917699a160.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,รันตี แต่งผี ปลุกปีศาจ(2025)
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B5-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,Frozen The Hit Broadway Musical(2025)
 #EXTVLCOPT:http-referrer=https://www.24-hdd.com/
 https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176bf541a3a34.m3u8
 
@@ -332,6 +334,9 @@ https://main.24playerhd.com/newplaylist/0daff60fc3439429100378fd/0daff60fc343942
 #EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Uncle-Nine-ZhongKui-Returns-2025-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9C%E0%B8%B5-187x269.png" group-title="🎬 ดูหนังใหม่ 2025" ,คุณลุงเก้าปราบผี (2025)
 #EXTVLCOPT:http-referrer=https://www.24-hdd.com/
 https://main.24playerhd.com/newplaylist/2aa0e548450a0670b296de64/2aa0e548450a0670b296de64.m3u8
+
+
+
 
 
 #############movie###############
@@ -4413,7 +4418,9 @@ https://hot.24playerhd.com/autoplaylist/e5740646a27a2b1e5bbcc8ce9b6a143a/e574064
 https://live.lnwplayer.com/hls/10d27438-3f5c-4360-b0a2-559106ebc885/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Frozen-The-Hit-Broadway-Musical-2025-300x450.png" group-title="👦 หนังการ์ตูน" ,Frozen The Hit Broadway Musical (2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/6629db84ad97d8917699a160/6629db84ad97d8917699a160.m3u8
 
 
 
