@@ -259,6 +259,16 @@ https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fl
 #EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
+#############movie2025###############
+
+#EXTINF:-1 tvg-chno="41" tvg-id="iptv36.pptv" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
+https://dolive.thaim3u.com/doolive4k-tv/football-play-3/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",MonoMax
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/daza1doo.png",DAZN1
+https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8
 
 
 #############movie2025###############
