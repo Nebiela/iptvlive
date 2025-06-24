@@ -263,6 +263,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คำสาปแห่งเขาเกเด
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2007) มหันตภัยเชื้อนรกถล่มเมือง ภาค2
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
@@ -5582,6 +5586,18 @@ https://surrit.com/1bd97455-d34a-4d06-9d82-a12081e0b639/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pic.javct.net/poster/20250606/1749746206.jpg",Z-Z EBWH-236 
 https://surrit.com/6d868b74-ad7a-4575-8496-f7f444d73467/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/webp/poster/20250606/1749752104.webp",Z-Z EBWH-244  
+https://surrit.com/265da226-7958-418f-b3f5-3dccd684cecb/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/ebwh00227/ebwh00227ps.jpg",Z-Z EBWH-227
+https://surrit.com/2395b851-1871-46fb-b48a-98e9c3161901/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.24s-jav.com/wp-content/uploads/2025/06/MUKC-102.jpg",Z-Z MUKC-102
+https://surrit.com/546ae42e-9a88-422f-a651-eea488cc1171/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.javdatabase.com/covers/thumb/hm/hmn00700ps.webp",Z-Z HMN-700
+https://surrit.com/7efde193-ea8d-48fc-ab83-6fe212359a50/playlist.m3u8
 
 
 
