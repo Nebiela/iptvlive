@@ -299,13 +299,22 @@ https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2
 
 #############movie2025###############
 
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/03/Cleaner-2025-%E0%B9%84%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" , ไต่ระทึกตึกนรก(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" , 4ป่าช้า(2025)
+#EXTVLCOPT:http-referrer=https://www.123-hdd.com/
+https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/04/Warfare-2025-1-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,Warfare (2025)
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/9f6ca8e499c8f0fab3b3fd67/9f6ca8e499c8f0fab3b3fd67.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คำสาปแห่งเขาเกเด
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,แก๊งม่วนป่วนอเมริกา
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
-https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6.m3u8
+https://main.24playerhd.com/newplaylist/5ff788ba17b79bd93945679d/5ff788ba17b79bd93945679d.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%94-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,คำสาปแห่งเขาเกเด
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
@@ -438,37 +447,37 @@ https://main.24playerhd.com/newplaylist/9e524850ee70540fa417df65/9e524850ee70540
 https://main.24playerhd.com/newplaylist/9e524850ee70540fa417df65/9e524850ee70540fa417df65.m3u8
 
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP1ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP11ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP2ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP22ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP3ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP33ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP4ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP44ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP5ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP55ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP6ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP66ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
 
-#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP7ดับแค้นไร้ปรานี(2025)
+#EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mercy-for-None-2025-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B5-187x269.png",EP77ดับแค้นไร้ปรานี(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f86d4ad22c2d86f39f7eb240/f86d4ad22c2d86f39f7eb240.m3u8
@@ -5642,6 +5651,15 @@ https://surrit.com/546ae42e-9a88-422f-a651-eea488cc1171/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.javdatabase.com/covers/thumb/hm/hmn00700ps.webp",Z-Z HMN-700
 https://surrit.com/7efde193-ea8d-48fc-ab83-6fe212359a50/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/1start00372/1start00372jp-1.jpg",Z-Z START-372
+https://surrit.com/46dda2bd-4524-412b-b26c-73f668154e8e/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javhd.icu/wp-content/uploads/2025/06/JAV-HD-FNS-048-Yui-Hina.jpg",Z-Z FNS-048 
+https://surrit.com/962cd1c6-9f82-41b7-8f3f-023f50f88e91/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javgg.net/wp-content/uploads/2025/06/pf_e_300mium-1181.jpg",Z-Z MIUM-1181 
+https://surrit.com/38702073-754d-4a42-ad0e-f6b7894050c3/playlist.m3u8
 
 
 
