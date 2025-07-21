@@ -261,6 +261,43 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664802480.png",tsp3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/tsp3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664499966.png",tsp2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/tsp2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664802455.png",tsp1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/tsp1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664202734.png",sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/sportdigital/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1703787733.png",mono29plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/mono29plus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1752532908.png",Asean-2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/asean-u23-mandiri-cup-1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664801941.png",golfchannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://cdn1.googlecdn.live/4k/golfchannel/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",MonoMax
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
