@@ -274,6 +274,11 @@ https://dolive.thaim3u.com/doolive4k-tv/football-play-3/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/daza1doo.png",DAZN1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn1.googlecdn.live/4k/dazn1/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -302,6 +307,14 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 
 #############movie2025###############
+
+#EXTINF:-1 tvg-logo="https://037hd.net/wp-content/uploads/2025/05/A-Widows-Game-185x278.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กลเกมแม่ม่าย
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNmYWI0YWItMmJhYi00OTA4LThlNjItMTk0MzI1M2IwYjg5XkEyXkFqcGc@._V1_.jpg" group-title="🎬 ดูหนังใหม่ 2025" , Alarum (2025)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
 
 #EXTINF:-1 tvg-logo="https://movie.thaiware.com/upload_misc/movie/2024_12/original/2412171204127x2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) คาราเต้ คิด
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
@@ -5756,6 +5769,16 @@ https://surrit.com/1e6c9d15-6f82-4e0c-90f4-025dff013c8b/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pic.javct.net/poster/20250606/1752253926.jpg",Z-Z GVH-760
 https://surrit.com/8aa398fd-b58a-4664-9c7f-fc545afc3d75/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://haibandvd.com/wp-content/uploads/2024/10/d_425179pr.jpg",Z-Z URE-126
+https://surrit.com/e070beec-8341-444e-9c60-4f07fdf1081a/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.24s-jav.com/wp-content/uploads/2025/07/JUR-406.jpg",Z-Z JUR-406 
+https://surrit.com/7cc9baf5-1816-437b-aed7-35e452ebf44d/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javquick.com/serve/600/https://pics.dmm.co.jp/digital/video/sone00566/sone00566jp-1.jpg.jpg",Z-Z SONE-566 S1 
+https://surrit.com/87b74c64-934e-406c-a6ea-379ee4972550/playlist.m3u8
+
 
 
 
