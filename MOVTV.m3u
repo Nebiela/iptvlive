@@ -309,6 +309,14 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/34bTB7lE2lg/maxresdefault.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)28 ปีให้หลัง เชื้อเขมือบคน
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/ea40b84625de77f7c9608a94/ea40b84625de77f7c9608a94.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/214/080/000/rs9k0317iwmGUczrsZd0z-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)จักรวาลของ จอห์น วิค
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/2c59bb8be3a9d3865276bf0e/2c59bb8be3a9d3865276bf0e.m3u8
+
 #EXTINF:-1 tvg-logo="https://037hd.net/wp-content/uploads/2025/05/A-Widows-Game-185x278.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กลเกมแม่ม่าย
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
