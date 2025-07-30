@@ -296,10 +296,10 @@ https://cdn2.aws-live-streaming.com/lsmscore/asean-u23-mandiri-cup-1/playlist.m3
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/astroarena2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1703829940.png",3bbasian
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1664202734.png",sportdigital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/3bbasian/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://goal-th.com/
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/sportdigital/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6NDY6MDIgQU0maGFzaF92YWx1ZT1ERzhYUXRxeTZnaXMrd05mMlVkSndRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1697812603.png",astroarena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
