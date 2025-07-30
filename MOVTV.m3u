@@ -374,6 +374,15 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Battle-Through-The-Heavens-4.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/758/088/000/mdor3zu1i2f9VX0tAP0-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) เดอะ แฟนแทสติก 4 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/34bTB7lE2lg/maxresdefault.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)28 ปีให้หลัง เชื้อเขมือบคน
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ea40b84625de77f7c9608a94/ea40b84625de77f7c9608a94.m3u8
