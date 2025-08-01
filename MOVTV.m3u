@@ -261,15 +261,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg",sky sports EPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-http://tv.premiumplus.tv/play/live.php?mac=10:27:BE:2E:19:4F&stream=1424311&extension=m3u8
+
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1753517049.png",monomax1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/Mono.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664529575.png",hd-spotv2_720 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -286,15 +283,8 @@ https://e111.google-streams.com:9311/v5/c2SdUe_fI4qurMVnOeiwAg/1753499684/a5ab45
 #EXTVLCOPT:http-referrer=https://livesod365.com/live/
 https://e101.google-streams.com:9301/v5/b-Jh3nS-WlmLiFh9uB62UA/1753499579/e23e13315f256206b15485fea9f4226f/TZ7YzSSsAV4z0_xTvaAvhQ/1753510259/live/vx-origin/epl-bein1_720/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",monomax01_720 -2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://e107.google-streams.com:9307/v5/_h3uDWTvSpbMI-4V-_ytRg/1753499534/e23e13315f256206b15485fea9f4226f/v_dpgAPrYGgttLVamRLQHg/1753510214/live/vx-origin/th-monomax02_720/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",monomax01_720 -1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://s2x.apple-streams.com:9314/v5/JAUCAUO0hc-ZWsMDxUfcmQ/1753499387/e23e13315f256206b15485fea9f4226f/XfSVwZKgn75ndS4wDtwUfA/1753510067/live/lx-origin/th-monomax01_720/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1752532908.png",ASEAN Mandiri Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -336,9 +326,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/spotv2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/spotv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",MonoMax
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
