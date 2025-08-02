@@ -261,6 +261,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1753517049.png",monomax1 สำรอง3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://168dooball.net/
+https://r3-sn-5fo-c37ed15.googleuservideo.com/168db_e1/monomax2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgMTI6NDI6MTkgQU0maGFzaF92YWx1ZT1xY2htcHpxaWE4N0tZQjNpZnMrR0VRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjImaWQ9YmdocjY4ODk2NQ==
+
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1753517049.png",monomax1 สำรอง2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://168dooball.net/
