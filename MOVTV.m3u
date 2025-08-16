@@ -301,16 +301,13 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8?wmsAuthSign
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
-https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax3/playlist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
