@@ -263,6 +263,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="🖥️ FIFASport",AIS PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="🖥️ FIFASport",TRUE SPORT 1
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://dolive.thaim3u.com/doodii-live/siamsport-4/playlist.m3u8
