@@ -296,10 +296,8 @@ https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
+https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDQ6NDk6NTggQU0maGFzaF92YWx1ZT1LTmVsSzhjTVNGNEo1SU5ndFhqa0xnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc1NTMxOTc5ODMwNCZzdHJtX2xlbj0w
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
