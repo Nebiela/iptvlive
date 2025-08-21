@@ -445,6 +445,14 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://www.dailynews.co.th/wp-content/uploads/2025/04/Gnn6jZ7aMAcExfP-1024x1280.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)เดอะ สโตน พระแท้ คนเก๊
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Battle-Through-The-Heavens-4.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กําเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://m3u8haha.com/movie/M15417.mp4/playlist.m3u8
