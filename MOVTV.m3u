@@ -146,11 +146,11 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-8
 
 #EXTINF:-1 tvg-chno="35"  tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 
 #EXTINF:-1 tvg-chno="35"  tvg-id="CH7 HD.th" tvg-name="CH7 HD สำรอง" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://www.livedoomovies.com:4432/02_TNN24_480p/chunklist.m3u8
+http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 #EXTINF:-1 tvg-chno="36"  tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://www.9tana.com/wp-content/uploads/2017/03/pptv.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -6075,6 +6075,18 @@ https://surrit.com/6292a6c8-f3be-4ab6-8b65-7d2dd914c435/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.javhd.today/videos/tmb/000/274/858/1.jpg",Z-Z ATYA-026
 https://surrit.com/3a59fdca-d77f-4c30-8d38-260bc04495ef/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/1sdnm00521/1sdnm00521jp-8.jpg",Z-Z SDNM-521
+https://surrit.com/49582190-5b77-4d27-bb2e-716f720c6005/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/digital/video/1mtall145/1mtall145jp-6.jpg",Z-Z MTALL-145
+https://surrit.com/15ded3db-8886-472a-8add-e2c6aa43bbcb/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://image.mgstage.com/images/nanpatv/200gana/3244/pb_e_200gana-3244.jpg",Z-Z MAAN-1099
+https://surrit.com/6292a6c8-f3be-4ab6-8b65-7d2dd914c435/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javopen.co/wp-content/uploads/2025/08/maan-1098.jpg",Z-Z MAAN-1098
+https://surrit.com/6292a6c8-f3be-4ab6-8b65-7d2dd914c435/playlist.m3u8
 
 
 
