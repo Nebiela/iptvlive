@@ -263,6 +263,22 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-2
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-3
+#EXTVLCOPT:http-referrer=https://footballsod.live/
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
+
+#############movie2025###############
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="🖥️ FIFASport",AIS PLAY SPORTS FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
