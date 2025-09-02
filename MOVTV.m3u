@@ -461,6 +461,15 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" , บัลลังก์เลือด (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15440.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Hallow Road (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15425.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-11.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)Nobody 2 (2025)
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://m3u8haha.com/movie/M15434.mp4/playlist.m3u8
@@ -6104,7 +6113,14 @@ https://surrit.com/6292a6c8-f3be-4ab6-8b65-7d2dd914c435/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javopen.co/wp-content/uploads/2025/08/maan-1098.jpg",Z-Z MAAN-1098
 https://surrit.com/6292a6c8-f3be-4ab6-8b65-7d2dd914c435/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/webp/poster/07202025/1756403283.webp",Z-Z ADN-701
+https://surrit.com/c07c2dda-08f9-4325-acc5-a54b8a0fcc7b/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fourhoi.com/maan-1101/cover-n.jpg",Z-Z MAAN-1101
+https://surrit.com/37d0512a-5d8d-4950-8d3a-66cbf9aed38d/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.ghanaweb.com/imagelib/pics/374/37426422.295.jpg",Z-Z MIDA-300 
+https://surrit.com/72c8372d-aefa-470c-9fcf-8dc5115f2ff7/playlist.m3u8
 
 
 ######movieAll##########
