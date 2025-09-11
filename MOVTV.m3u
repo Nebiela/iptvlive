@@ -461,6 +461,19 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://s3.movie555.com/assets/images/poster/a/compressed/202509/42322AzBbGl5i85YlmzQBCxVAahl6oczJfE0f.jpg.webp" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สถาบันนางร้าย
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/b511021da72a0f0fd20a78fa/b511021da72a0f0fd20a78fa.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/649/008/000/1376994965-Photo19825-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) หลวงพี่แจ๊สโคตรซิ่ง
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/649/008/000/1376994965-Photo19825-o.jpg" group-title="🎬 ดูหนังใหม่ 2025" , เดอะ คอนเจอริ่ง คนเรียกผี(2025)
+#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
+https://main.24playerhd.com/newplaylist/c24736fd4314f59b43717335/c24736fd4314f59b43717335.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg" group-title="🎬 ดูหนังใหม่ 2025" , กําเนิดเทพเจ้า (2025)(2025)
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://m3u8haha.com/movie/M15417.mp4/playlist.m3u8
@@ -6154,6 +6167,11 @@ https://surrit.com/37d0512a-5d8d-4950-8d3a-66cbf9aed38d/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.ghanaweb.com/imagelib/pics/374/37426422.295.jpg",Z-Z MIDA-300 
 https://surrit.com/72c8372d-aefa-470c-9fcf-8dc5115f2ff7/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.ghanaweb.com/imagelib/pics/374/37426422.295.jpg",Z-Z MIDA-300 
+https://surrit.com/72c8372d-aefa-470c-9fcf-8dc5115f2ff7/playlist.m3u8
+
+
 
 
 ######movieAll##########
