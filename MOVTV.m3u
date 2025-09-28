@@ -484,6 +484,19 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Prisoner of War (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15462.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) สงครามโลกล้านปี
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-11.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Mantis (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15467.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) ฝ่าภารกิจเดือด
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://m3u8haha.com/movie/M15461.mp4/playlist.m3u8
@@ -6216,7 +6229,14 @@ https://surrit.com/72c8372d-aefa-470c-9fcf-8dc5115f2ff7/playlist.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.ghanaweb.com/imagelib/pics/374/37426422.295.jpg",Z-Z MIDA-300 
 https://surrit.com/72c8372d-aefa-470c-9fcf-8dc5115f2ff7/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.24s-jav.com/wp-content/uploads/2025/09/CKCK-018.jpg",Z-Z CKCK-018
+https://surrit.com/d086ce26-5d8c-4f39-9b59-2f4877bf025c/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.faleno.net/group/wp-content/uploads/2025/08/STCV-579_0011.jpg",Z-Z STCV-579 
+https://surrit.com/156b6e0d-a4a8-46d0-b6a8-f7e311c292b2/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.javdatabase.com/covers/thumb/pf/pf_o1_abf-175.webp",Z-Z ABF-271
+https://surrit.com/0b56e2c3-4882-41d7-b161-e9f1e16668a1/playlist.m3u8
 
 
 ######movieAll##########
