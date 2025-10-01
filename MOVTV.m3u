@@ -301,9 +301,30 @@ http://bestcommt2.github.io/m3u8/monomax6.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1664500365.png" group-title="🖥️ FIFASport",beIN Sports1-A🇹🇭
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1690843424.png" group-title="🖥️ FIFASport",beIN Sports2-A🇹🇭
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1663980670.png" group-title="🖥️ FIFASport",beIN Sports3-A🇹🇭
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1692816640.png" group-title="🖥️ FIFASport",beIN Sports4-A🇹🇭
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1693290376.png" group-title="🖥️ FIFASport",beIN Sports5-A🇹🇭
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="🖥️ FIFASport",AIS PLAY SPORTS FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
 http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="🖥️ FIFASport",TRUE SPORT 1
