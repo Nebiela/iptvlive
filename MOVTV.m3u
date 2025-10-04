@@ -504,7 +504,9 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 
 #############movie2025###############
-
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-1-scaled.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,The Astronaut (2025)
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8haha.com/movie/M15477.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,Prisoner of War (2025)
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
