@@ -505,6 +505,10 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/09/Tron3-Ares.webp" group-title="🎬 ดูหนังใหม่ 2025" ,Tron 3 Ares (2025) ทรอน 3 แอรีส
+#EXTVLCOPT:http-referrer=https://mblogi.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สงครามโลกล้านปี(2025)
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
