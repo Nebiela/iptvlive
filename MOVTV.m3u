@@ -264,9 +264,14 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #############movie2025###############
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1
-#EXTVLCOPT:http-referrer=
-https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 dooball66
+#EXTVLCOPT:http-referrer=https://dooball666.club/
+https://la5.youllneverwalkalone.online:9309/v5/SRBBJ3bxT8g1kelnQFuGQw/1760514031/e8ab363a97406bf3bf9c0669a4f66bef/A5PKvWpoB4LhOlL25Wl9Bw/1760524711/live/lx-origin/dooball66-max01_480/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://api.makeitso.online/images/png/epl-3.png" group-title="⚽ MonoMax",epl-3 dooball66
+#EXTVLCOPT:http-referrer=https://dooball666.club/
+https://la5.youllneverwalkalone.online:9309/v5/_B_dVsTaDM_CASxBBeYjYw/1760514108/73d2c821fd3b9dbbebd3c189eaa96405/zfWg-guK8_jp5DBF2rF6dA/1760524788/live/lx-origin/epl-3_480/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-2
 #EXTVLCOPT:http-referrer=
