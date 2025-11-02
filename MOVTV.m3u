@@ -509,6 +509,19 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
+
+#EXTINF:-1 tvg-logo="https://sahamongkolfilm.com/wp-content/uploads/2025/10/No-Other-Choice-Kor-Poster-TH.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) งานนี้..ฆ่าเอา
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
+
+#EXTINF:-1 tvg-logo="https://deskanime.net/wp-content/uploads/2025/09/Strange-Memories-2025-cover.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) ความทรงจำพิศวง 
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/03a93043e2ae76c022be235a/03a93043e2ae76c022be235a.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mblogi.com/wp-content/uploads/2025/10/Black-Phone2.webp" group-title="🎬 ดูหนังใหม่ 2025" ,สายหลอน ซ่อนวิญญาณ 2 (2025) 
 #EXTVLCOPT:http-referrer=https://mblogi.com/
 https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
