@@ -246,12 +246,7 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-8
 #EXTINF:-1 tvg-chno="38" tvg-id="iptv36.amarin" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="iptv36.ch7" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
-#EXTVLCOPT:http-referrer=https://www.ch7.com/
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
-#EXTINF:-1 tvg-chno="40" tvg-id="iptv36.ch7" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-id="iptv36.pptv" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1749664201&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=H68ST1hmuzX2c5a2b9Hq3A
@@ -516,6 +511,10 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 
 #############movie2025###############
+
+#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
@@ -2832,13 +2831,13 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-golf.png",Golf Channel Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.livedoomovies.com:4432/
-https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_GOLFHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.1golf.com.au/images/onegolf.gif",Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_GOLFHD_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BBCNEWS.png",BBC News
@@ -6331,6 +6330,24 @@ https://cdn.hlsbroadcast.com/ph1753156082/ph1753156082.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/08/thumb_xxx_1755498004.jpg",Z-Z 26054
 https://cdn.hlsbroadcast.com/ph1755363122/ph1755363122.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/11/thumb_juniijune_1762409999.jpg",Z-Z 26667
+https://cdn.hlsbroadcast.com/mv1762400941/mv1762400941.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/11/thumb_ndream-xxx_1762224575.jpg",Z-Z 26657
+https://cdn.hlsbroadcast.com/mv1761404581/mv1761404581.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/10/thumb_mwchu-xxx_1761805910.jpg",Z-Z 26642
+https://cdn.hlsbroadcast.com/mv1761752431/mv1761752431.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/10/thumb_xxx_1761544204.jpg",Z-Z 26618
+https://cdn.hlsbroadcast.com/mv1761519121/mv1761519121.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/10/thumb_mojiniim_1761365280.jpg",Z-Z 26609
+https://cdn.hlsbroadcast.com/mv1761303511/mv1761303511.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://wwww.xn--2-5wf8hfi4cyh.com/wp-content/uploads/2025/10/thumb_jeenzen-onlyfans-xxx_1761364815.jpg",Z-Z 26607
+https://cdn.hlsbroadcast.com/mv1761304051/mv1761304051.m3u8
 
 
 ######movieAll##########
