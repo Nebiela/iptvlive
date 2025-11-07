@@ -264,9 +264,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #############movie2025###############
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 bestcommt2
-#EXTVLCOPT:http-referrer=
-http://bestcommt2.github.io/m3u8/monomax1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-2 movie2k
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
@@ -328,18 +328,18 @@ https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="🖥️ FIFASport",AIS PLAY SPORTS FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/AIS_PLAY_1HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="🖥️ FIFASport",TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://dolive.thaim3u.com/doodii-live/siamsport-4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_sport1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 2
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://dolive.thaim3u.com/doodii-live/siamsport-5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_sport2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 3
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/18/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_sport3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 4
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://dolive.thaim3u.com/doodii-live/siamsport-7/playlist.m3u8
@@ -352,8 +352,8 @@ https://keela2.com/stream/21/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="🖥️ FIFASport",beIN SPORT 1
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/1/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="🖥️ FIFASport",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://keela2.com
 https://keela2.com/stream/2/index.m3u8?token=mvFWafOIir5JDlQN
@@ -364,8 +364,8 @@ https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/
