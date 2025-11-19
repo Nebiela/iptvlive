@@ -512,6 +512,18 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/f/f9/%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD_%28%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%29.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,4 Tigers (2025) เสือ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/d312b81f2d633c82a1af7e7f/d312b81f2d633c82a1af7e7f168.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.eventcinemas.co.nz/cdn/resources/movies/20002/images/largeposter.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)พรีเดเตอร์ แดนเถื่อน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/d6b208951e13dd7e2004d26e/d6b208951e13dd7e2004d26e168.m3u88
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)เดอะ รันนิ่ง แมน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/m3u8/47e7c17e6b53bd7df96c6152/47e7c17e6b53bd7df96c6152168.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
