@@ -374,8 +374,9 @@ https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/Monomax_Live_1HD/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://github.com
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.movewinhd.com/
@@ -560,9 +561,7 @@ https://main.24playerhd.com/m3u8/47e7c17e6b53bd7df96c6152/47e7c17e6b53bd7df96c61
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hdd.com/wp-content/uploads/2025/09/Afterburn_2025.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025)ล่าขุมทรัพย์แดนแดดเดือด
-#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
-https://main.24playerhd.com/newplaylist/83f997f822bdd7d6fef44764/83f997f822bdd7d6fef44764.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://sahamongkolfilm.com/wp-content/uploads/2025/10/No-Other-Choice-Kor-Poster-TH.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) งานนี้..ฆ่าเอา
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
@@ -687,9 +686,6 @@ https://m3u8haha.com/movie/M15430.mp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
 https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Battle-Through-The-Heavens-4.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
-#EXTVLCOPT:http-referrer=https://www.24hd-movie.com/
-https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) กําเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
@@ -751,7 +747,7 @@ https://serverdatam3u8.com/movie/M15371.mp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://serverdatam3u8.com/movie/M15373.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/05/Battle-Through-The-Heavens-4.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
+#EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2025/10/Figth-Break-Sphere-2-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%9F%E0%B9%89%E0%B8%B2-2-300x450-2.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2025) สัประยุทธ์ทะลุฟ้า 4
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
 
@@ -776,7 +772,7 @@ https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c6403419151
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
 
-#EXTINF:-1 tvg-logo="https://movie.thaiware.com/upload_misc/movie/2024_12/original/2412171204127x2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) คาราเต้ คิด
+#EXTINF:-1 tvg-logo="https://files.thaiware.site/movie/2024-12/images-poster/2412171204127x2.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2025) คาราเต้ คิด
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/842f0d8092c9f870701d63b2/842f0d8092c9f870701d63b2.m3u8
 
@@ -804,7 +800,7 @@ https://main.24playerhd.com/newplaylist/f030631c5d5f76f7a512688f/f030631c5d5f76f
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/e2f9ed74205adc69f400230d/e2f9ed74205adc69f400230d.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8-hd.com/wp-content/uploads/2025/07/The-Old-Guard-2.png" group-title="🎬 ดูหนังใหม่ 2025" ,ดิ โอลด์ การ์ด 2(2025)
+#EXTINF:-1 tvg-logo="https://lk-hd1.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-%E0%B8%94%E0%B8%B4-%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94-2-350x422.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,ดิ โอลด์ การ์ด 2(2025)
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8
 
@@ -828,7 +824,7 @@ https://main.24playerhd.com/newplaylist/5ff788ba17b79bd93945679d/5ff788ba17b79bd
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-300x450.png" group-title="🎬 ดูหนังใหม่ 2025" ,(2007) มหันตภัยเชื้อนรกถล่มเมือง ภาค2
+#EXTINF:-1 tvg-logo="https://t1.blockdit.com/photos/2021/03/604347a06400f715a7c0dc5c_800x0xcover_G7UF_dQC.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2007) มหันตภัยเชื้อนรกถล่มเมือง ภาค2
 #EXTVLCOPT:http-referrer=https://www.123-hdd.com/
 https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
 
@@ -6423,7 +6419,19 @@ https://cdn.hlsbroadcast.com/mv1763177011/mv1763177011_1_1500.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--72c6a7a3agk2dyg5a.com/wp-content/uploads/2025/11/thumb_orisepeachy-xxx_1763843941.jpg",Z-Z 26829
 https://cdn.hlsbroadcast.com/mv1763818291/mv1763818291_1_1500.m3u8
 
+####ดู หาี-ไทายดอทnet#####################
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/12/MAX-7183.jpg",Z-Z 38057
+https://ezycdn.com/playlist-1qh97c8-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/12/MAX-7180.jpg",Z-Z 38049
+https://ezycdn.com/playlist-2bp94uo-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/12/MAX-7164.jpg",Z-Z 38002
+https://ezycdn.com/playlist-l9k2h5o-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/09/MAX-6455-768x432.jpg",Z-Z 38002
+https://ezycdn.com/playlist-b0jtfvo-master.m3u8
 
 
 
