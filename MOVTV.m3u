@@ -262,9 +262,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 สำรอง1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="⚽ MonoMax",Monomax2-2 
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 สำรอง2movie2k
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
