@@ -258,6 +258,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #############movie2025###############
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/TNT%20sport.png" group-title="⚽ MonoMax",TNT SPORT 
+#EXTVLCOPT:http-referrer=
+http://mooseven.ddns.net:9090/memfs/701c1f9b-581e-4c1a-9a96-70197aa1b6a7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
