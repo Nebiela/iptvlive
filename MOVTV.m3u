@@ -1100,20 +1100,26 @@ https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2
 https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 
-#############movie2025###############
+#############movie2026###############
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_73921-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" , (2026) ฝ่าชะตา โลกาวินาศ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/8b1f6ea78f972d03517b7239/8b1f6ea78f972d03517b7239.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kino-zeit.de/sites/default/files/2025-09/the_rip_2026_pl.jpg" group-title="🎬 ดูหนังใหม่ 2026" , (2026) เงินบาปกระชากคน
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s359.kapook.com/pagebuilder/c718d359-c2da-44b9-93a8-6f5223831ee1.jpg" group-title="🎬 ดูหนังใหม่ 2025" , (2026) นากรักมาก ม๊ากมาก
+#EXTINF:-1 tvg-logo="https://s359.kapook.com/pagebuilder/c718d359-c2da-44b9-93a8-6f5223831ee1.jpg" group-title="🎬 ดูหนังใหม่ 2026" , (2026) นากรักมาก ม๊ากมาก
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/6c339de755ba0da8ce2a546b.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.filmihulluleffakauppa.com/42018-large_default/sisu-2-2025-blu-ray.jpg" group-title="🎬 ดูหนังใหม่ 2026" , สิสู้…เฒ่ามหากาฬ 2
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/4dc88eebac9e671ebdd4263c/4dc88eebac9e671ebdd4263c.m3u8
+
+#############movie2025###############
 
 #EXTINF:-1 tvg-logo="https://www.filmihulluleffakauppa.com/42018-large_default/sisu-2-2025-blu-ray.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สิสู้…เฒ่ามหากาฬ 1
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
@@ -7094,6 +7100,12 @@ https://ezycdn.stream/playlist-vqjdc48-master.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/09/MAX-6445-768x432.jpg",Z-Z 36965
 https://ezycdn.stream/playlist-r3l5rv8-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/01/xnxx-1.jpg",Z-Z 8005
+https://ezycdn.stream/playlist-2m5fm0r8-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/08/MAX-6232-768x432.jpg",Z-Z 36308
+https://ezycdn.stream/playlist-sipdfig-master.m3u8
 
 
 ######movieAll##########
