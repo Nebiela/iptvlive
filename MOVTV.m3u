@@ -1102,6 +1102,10 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 #############movie2026###############
 
+#EXTINF:-1 tvg-logo="https://cdn.majorcineplex.com/uploads/movie/4551/thumb_4551.jpg" group-title="🎬 ดูหนังใหม่ 2025" ,(2026)ความลับแม่บ้านร้าย
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/d3e9e32befa933d3b06172d7/d3e9e32befa933d3b06172d7.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_73921-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" , (2026) ฝ่าชะตา โลกาวินาศ
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/8b1f6ea78f972d03517b7239/8b1f6ea78f972d03517b7239.m3u8
@@ -1120,6 +1124,8 @@ https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/6c339de755ba0da
 https://main.24playerhd.com/newplaylist/4dc88eebac9e671ebdd4263c/4dc88eebac9e671ebdd4263c.m3u8
 
 #############movie2025###############
+
+
 
 #EXTINF:-1 tvg-logo="https://www.filmihulluleffakauppa.com/42018-large_default/sisu-2-2025-blu-ray.jpg" group-title="🎬 ดูหนังใหม่ 2025" , สิสู้…เฒ่ามหากาฬ 1
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
