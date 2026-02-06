@@ -25,7 +25,7 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NBT_Logo.png/225px-NBT_Logo.png",NBT 2 HD
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/nbt.png",NBT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w1579257356_b2128000.m3u8
 
@@ -43,7 +43,7 @@ https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="7"  tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://www.tsports7.com/app-icon.png",T-Sports7
+#EXTINF:-1 tvg-chno="7"  tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",T-Sports7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tsports7.com/en/live
 https://tcdn-live.tsports7.com/videohls/flivech/awtifYbj7ZZdC8m0H7GEVw/1727866666/tsports-1_720p/playlist.m3u8
@@ -79,7 +79,7 @@ http://news1.live14.com/stream/news1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://www.livedoomovies.com:4432/02_NATION_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://www.9poto.com/wp-content/uploads/2019/06/9cde61d2826cf317f1a3c58eef6978c7-1.jpg",Workpoint TV
+#EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://s3x.apple-streams.com:9305/v5/PjcL2Z33oquOTVtHzcml5A/1750241119/9bc71f8f446dd5f23fd9a1c1fcb7290d/0LKWxIt8ek0NfC41OP4mTQ/1750251799/live/dx-origin/hd-workpoint_720/playlist.m3u8
 
@@ -93,7 +93,7 @@ https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="27"  tvg-id="CH8.th" tvg-name="CH8" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://images-storage.thaiware.site/software/2014_05/728/649_14051913092389.jpg",CH8
+#EXTINF:-1 tvg-chno="27"  tvg-id="CH8.th" tvg-name="CH8" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://files.thaiware.site/software/2017-07/images-336/13257-17070710400371.jpg",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8
 
@@ -124,7 +124,7 @@ https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD2" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/25/Amarin_TV_HD34.png",AmarinTV HD
+#EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD2" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_29.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4431/02_AMARINHD_720p/playlist.m3u8
@@ -816,222 +816,26 @@ http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/33267.m3u8
 
 #####################################################################
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="🖥️ FIFASport",PremierHD3 HD
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="🖥️ FIFASport",GOLF CHANNEL HD
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1664500365.png" group-title="🖥️ FIFASport",beIN Sports1-A🇹🇭
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1690843424.png" group-title="🖥️ FIFASport",beIN Sports2-A🇹🇭
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1663980670.png" group-title="🖥️ FIFASport",beIN Sports3-A🇹🇭
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1692816640.png" group-title="🖥️ FIFASport",beIN Sports4-A🇹🇭
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela2.live/uploads/1693290376.png" group-title="🖥️ FIFASport",beIN Sports5-A🇹🇭
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="🖥️ FIFASport",AIS PLAY SPORTS FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/AIS_PLAY_1HD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png" group-title="🖥️ FIFASport",TRUE SPORT 1
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/02_sport1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 2
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/02_sport2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 3
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/02_sport3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 4
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://dolive.thaim3u.com/doodii-live/siamsport-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 5
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/20/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="🖥️ FIFASport",TRUE SPORT 7
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/21/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-
-
-#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="🖥️ FIFASport",beIN SPORT 1
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="🖥️ FIFASport",beIN SPORT 2
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/2/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="🖥️ FIFASport",beIN SPORT 3
-#EXTVLCOPT:http-referrer=https://keela2.com
-https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.movewinhd.com/
-https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-https://github.com/wandering-oldman/sport2238/latest-commit/main/monomax1-1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-github.com/wandering-oldman/sport2238/blob/main/monomax1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753517049.png" group-title="🖥️ FIFASport",MONOMAX5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115",NOW Sports Premier League
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ GOLFSport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115",NOW Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="🖥️ GOLFSport",GOLF CHANNEL HD
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1753517049.png",monomax1 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1753517049.png",monomax1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://cdn2.aws-live-streaming.com/lsmscore/monomax1/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664529575.png",hd-spotv2_720 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://cdn5555.google-streams.com:9315/v5/S7Sy789G6T19-ZcaLOsikA/1753499745/a5ab45e81c59562f8853318ae4309367/diUAvZBv-36-mt2vpK0z0Q/1753510425/live/vx-origin/hd-spotv2_720/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664529562.png",hd-spotv_720 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://e111.google-streams.com:9311/v5/c2SdUe_fI4qurMVnOeiwAg/1753499684/a5ab45e81c59562f8853318ae4309367/mV32za0MvxaqeuSYNxfDdA/1753510364/live/dx-origin/hd-spotv_720/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.pic.in.th/pic/mono29977274214da259a2.png",bein1 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.com/live/
-https://e101.google-streams.com:9301/v5/b-Jh3nS-WlmLiFh9uB62UA/1753499579/e23e13315f256206b15485fea9f4226f/TZ7YzSSsAV4z0_xTvaAvhQ/1753510259/live/vx-origin/epl-bein1_720/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1752532908.png",ASEAN Mandiri Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/asean-u23-mandiri-cup-1/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1719768111.png",astroarena2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/astroarena2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela2.live/uploads/1664202734.png",sportdigital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/sportdigital/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6NDY6MDIgQU0maGFzaF92YWx1ZT1ERzhYUXRxeTZnaXMrd05mMlVkSndRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1697812603.png",astroarena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/astroarena/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1685036091.png",beinsport2fr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/beinsport2fr/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664323955.png",beinsport1fr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/beinsport1fr/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664529575.png",spotv2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/spotv2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664529562.png",spotv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/spotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/football-play-3/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/daza1doo.png",DAZN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
-https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/daza1doo.png",DAZN1 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn1.googlecdn.live/4k/dazn1/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/dklsport2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://slave02.appball.vip/
-https://slave02.appball.vip/hls/ch12.m3u8
-
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="FIFA" group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/club.png",FIFA Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/football-play-2/chunks.m3u8
-
-#EXTINF:-1 group-title="🖥️ FIFASport" tvg-logo="https://img2.imgbiz.com/imgbiz/daza1doo.png",DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goal-th.com/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDExOjM0OjIyIEFNJmhhc2hfdmFsdWU9bmRNbkt5OWE1eU5SdkhlbG1HOEpvZz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 group-title="🖥️ FIFASport" tvg-logo="https://dookeela.live/uploads/1664500365.png",bein1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
-https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
 
 
 #############movie2026###############
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74419-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) monkey-king
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/391e9635963394c78a767ed0/391e9635963394c78a767ed0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/02/poster_74575-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) วุ่นแค้นแดนหิมะ
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/2cced5850fbbe0730864c02c/2cced5850fbbe0730864c02c.m3u8
 
 #EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2025/12/The-Exit-8-2025-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-8.webp" group-title="🎬 ดูหนังใหม่ 2026" ,The Exit 8 (2025) ทางออกหมายเลข 8
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
@@ -7105,6 +6909,22 @@ https://ezycdn.stream/playlist-331bfb24-master.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/01/xnxx-85.jpg",Z-Z 384597
 https://ezycdn.stream/playlist-331a3rfd-master.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-143.jpg",Z-Z 8770
+https://ezycdn.stream/playlist-35d57n61-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/10/MAX-6999-768x432.jpg",Z-Z 8790
+https://ezycdn.stream/playlist-i286158-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/09/MAX-6418-768x432.jpg",Z-Z 8790
+https://ezycdn.stream/playlist-sn61mt8-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/01/xnxx-6.jpg",Z-Z 87907
+https://ezycdn.stream/playlist-2m5g2su1-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/10/MAX-6561-768x432.jpg",Z-Z 8790777
+https://ezycdn.stream/playlist-6mlu7e0-master.m3u8
 
 
 
