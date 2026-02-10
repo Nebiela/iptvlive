@@ -829,6 +829,14 @@ https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 
 #############movie2026###############
 
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/01/9-42.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) 28 ปีให้หลัง
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/c8fcac81fd3926916a7888c5/c8fcac81fd3926916a7888c5.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.thaiware.site/movie/2025-12/images-poster/251213120416897.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) คลั่งนรก หลบตาย
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/1d1ca47ef68dcb4ae721e859/1d1ca47ef68dcb4ae721e859.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123hd-tv.com/wp-content/uploads/2026/01/poster_74419-185x278.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) monkey-king
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/391e9635963394c78a767ed0/391e9635963394c78a767ed0.m3u8
@@ -6925,6 +6933,20 @@ https://ezycdn.stream/playlist-2m5g2su1-master.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/10/MAX-6561-768x432.jpg",Z-Z 8790777
 https://ezycdn.stream/playlist-6mlu7e0-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-163.jpg",Z-Z 38829
+https://ezycdn.stream/playlist-37cl0rho-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-162.jpg",Z-Z 38826
+https://ezycdn.stream/playlist-37clepag-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-156.jpg",Z-Z 9999
+https://ezycdn.stream/playlist-37comso7-master.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-153.jpg",Z-Z 8888
+https://ezycdn.stream/playlist-37cotd9d-master.m3u8
 
 
 
