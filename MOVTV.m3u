@@ -829,6 +829,14 @@ https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 
 #############movie2026###############
 
+#EXTINF:-1 tvg-logo="https://cdn.majorcineplex.com/uploads/movie/4715/bg_4715.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) สรรพลี้หวน
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ua-film.online/wp-content/uploads/2026/01/24a8f8f4113f971a2934822eac4b14be.jpeg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) คนข้างหลัง
+#EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
+https://main.24playerhd.com/newplaylist/0eafb6cb73b9f88373105c27/0eafb6cb73b9f88373105c27.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/01/9-42.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) 28 ปีให้หลัง
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/c8fcac81fd3926916a7888c5/c8fcac81fd3926916a7888c5.m3u8
@@ -6948,6 +6956,17 @@ https://ezycdn.stream/playlist-37comso7-master.m3u8
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-153.jpg",Z-Z 8888
 https://ezycdn.stream/playlist-37cotd9d-master.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-165.jpg",Z-Z 4444
+https://ezycdn.stream/playlist-37cl7l4b-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2026/02/xnxx-218.jpg",Z-Z 5555
+https://ezycdn.stream/playlist-3ed2plpp-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/12/MAX-7183.jpg",Z-Z จุกกรูๆๆๆๆ
+https://ezycdn.stream/playlist-1qh97c8-master.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://xn--l3cg7a8a0cwa3f.cc/wp-content/uploads/2025/12/MAX-7183.jpg",Z-Z 99992
+https://ezycdn.stream/playlist-1t5dsmo-master.m3u8
 
 
 ######movieAll##########
