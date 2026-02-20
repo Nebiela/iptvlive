@@ -829,6 +829,11 @@ https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 
 #############movie2026###############
 
+
+#EXTINF:-1 tvg-logo="https://kub24hd.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025.webp" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) แผนระห่ำ ใหญ่ฟัดเดือด
+#EXTVLCOPT:http-referrer=https://kub24hd.com/
+https://media.vdohls.com/1i6858j7uc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.majorcineplex.com/uploads/movie/4715/bg_4715.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) สรรพลี้หวน
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8
