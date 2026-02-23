@@ -830,6 +830,14 @@ https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 #############movie2026###############
 
 
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/Fight-Against-Evil-3-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)Fight Against Evil 3
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/d177df9235f9604ab18d7aee7dadb9ed/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lk-hd.net/wp-content/uploads/2026/02/The-Huntsman-2026.jpg" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) The Huntsman 
+#EXTVLCOPT:http-referrer=https://lk-hd.net/
+https://original.enjoy24cdn.com/hlsr2/78f75e987703f407e26b68cfcc89f0ad/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://kub24hd.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025.webp" group-title="🎬 ดูหนังใหม่ 2026" ,(2026) แผนระห่ำ ใหญ่ฟัดเดือด
 #EXTVLCOPT:http-referrer=https://kub24hd.com/
 https://media.vdohls.com/1i6858j7uc/playlist.m3u8
@@ -1350,6 +1358,8 @@ https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870
 
 
 #############movie###############
+
+
 
 #EXTINF:-1 group-title="🍿 ซีรีย์NETFLIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Alien_Earth_%282025%29_poster.jpg",ACEP5 Alien Earth (2025) ตอนที่5 ยังไม่จบ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
