@@ -281,6 +281,15 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MOTOGP.png" group-title="DIGITAL",MG - MOTOGP EVENT 1
+http://seixo.site:80/play/live.php?mac=00:1A:79:39:37:34&stream=1134518&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportmotogp.png" group-title="DIGITAL",IT - SKY SPORT MOTOGP UHD
+http://seixo.site:80/play/live.php?mac=00:1A:79:39:37:34&stream=601838&extension=ts
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1660493.png" group-title="DIGITAL",TH| TRUE PREMIERE LEAGUE 1 HD
+http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115757&extension=ts
+
 
 
 #############movie2025###############
