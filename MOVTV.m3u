@@ -101,8 +101,8 @@ https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Mononext_Logo.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://s3x.apple-streams.com:9303/v5/2qNRUTb0MpPZj4p2QPCNMg/1750240930/9bc71f8f446dd5f23fd9a1c1fcb7290d/nf0jQ6-PKCnnKDZrQ9DsRA/1750251610/live/dx-origin/hd-mono_720/playlist.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.monomax.me/livetv
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 tvg-chno="30"  tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -192,10 +192,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #############DIGITAL2025###############
 
 
-#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/250px-Ch3HDLogo.png",3HD
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
 
+#EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL" tvg-logo="https://thaitv5hd.com/web/img/logo.png",5HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -280,15 +280,6 @@ https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/MOTOGP.png" group-title="DIGITAL",MG - MOTOGP EVENT 1
-http://seixo.site:80/play/live.php?mac=00:1A:79:39:37:34&stream=1134518&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportmotogp.png" group-title="DIGITAL",IT - SKY SPORT MOTOGP UHD
-http://seixo.site:80/play/live.php?mac=00:1A:79:39:37:34&stream=601838&extension=ts
-
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1660493.png" group-title="DIGITAL",TH| TRUE PREMIERE LEAGUE 1 HD
-http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115757&extension=ts
 
 
 
