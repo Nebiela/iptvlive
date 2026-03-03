@@ -189,6 +189,99 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 
+#############DIGITAL2025###############
+
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/250px-Ch3HDLogo.png",3HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://thaitv5hd.com/web/img/logo.png",5HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thaitv5hd.com/web/live.php
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w140733315.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ch-7-HD-Logo-crop.png/250px-Ch-7-HD-Logo-crop.png",7HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.ch7.com/live.html
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/250px-MCOT_Ch9_Logo.png",MCOT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.mcot.net/tv/th
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1705641632_b500000.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/250px-NBT_2025.svg.png",NBT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prdee.prd.go.th/live/63bd400d0deca90012ce6c88
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w831618011_b2128000.m3u8?null
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/250px-Thai_PBS_Logo_2016.svg.png",ThaiPBS
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/250px-TNN16_Logo.png",TNN
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nation_TV_logo.png/120px-Nation_TV_logo.png",NationTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/category/nationtv/live
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://s.isanook.com/ns/0/ud/1561/7807474/new-logo-thairath.jpg?ip/resize/w728/q80/jpg",ThairathTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/live
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/250px-Amarin_TV_HD_34_Logo.svg.png",AmarinTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://img-ha.mthcdn.com/OpS_F7XGjX2y6lsXxhvUOIfOX0k=/mthai.com/app/uploads/2021/05/true4u-24-tv.png",true4u
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/250px-GMM_25_logo.svg.png",GMM25
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Channel_8_2024.svg/250px-Channel_8_2024.svg.png",ช่อง8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaich8.com/live?var_link=720p
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MONO292025.png/250px-MONO292025.png",MONO29
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.monomax.me/livetv
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/ef/Watermark-ONE.png/250px-Watermark-ONE.png",ONED
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/WORKPOINT_Logo.svg/250px-WORKPOINT_Logo.svg.png",workpoint
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.workpointtv.com/live-stream-page
+https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/250px-PPTV_logo_2019.svg.png",PPTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",topnews
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+
 
 #############movie2025###############
 
