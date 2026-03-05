@@ -376,10 +376,13 @@ https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/Monomax_Live_2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://api.bananacake.org/images/png/epl-3.png" group-title="⚽ MonoMax TEST",epl-3_720
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/epl-bein2.jpg" group-title="⚽ MonoMax TEST",BEIN SPORT HD 2
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://cycling-slightly.bananacake.org:9306/v5/2z2nA2ecNHhBxF-aAM80qg/1772721200/c61bd017afeedd9e4546152d02e35964/r8JGIGhps3VbbCPcGGYl2w/1772731880/live/vx-origin/epl-3_720/chunks.m3u8
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.imgx04.xyz/assets/img/ch_logo/epl-bein3.jpg" group-title="⚽ MonoMax TEST",BEIN SPORT HD 3
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
 #############TEST#######################################################
 
