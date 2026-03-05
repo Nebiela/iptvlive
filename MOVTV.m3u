@@ -362,7 +362,33 @@ https://www.livedoomovies.com/AIS_PLAY_2HD/chunklist.m3u8
 https://www.livedoomovies.com:4431/AIS_PLAY_2HD/playlist.m3u8
 
 
-#############movie2025#######################################################
+#############TEST#######################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="TSET",Monomax1 480p
+#EXTVLCOPT:http-referrer=https://Dooball66c.com/
+https://d2in0y5f3y1ria.cloudfront.net/lx-origin/03/C9N5Hr_tj9bRnQaBl86jFg/0bd3791ebfed8fd6d19d068197cea316/1772644733/th-monomax01_480/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="TSET",Monomax2 480p
+#EXTVLCOPT:http-referrer=https://Dooball66c.com/
+https://d2jwvf4ws7l9th.cloudfront.net/lx-origin/03/Dsv1TijLiizH9el8Tt780w/0ecbf54e28cb8a2cc7f5e97c4edefcd3/1772645364/th-monomax02_480/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="TSET",bein2 480p
+#EXTVLCOPT:http-referrer=https://Dooball66c.com/
+https://d2in0y5f3y1ria.cloudfront.net/vx-origin/02/OqLiY8mbKu45silV-0Zi3g/3aa2e263c99b2aee39b22955fb4662de/1772645282/epl-bein2_480/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="https://api.bananacake.org/images/png/epl-3.png" group-title="TSET",epl-3 480p chunks
+#EXTVLCOPT:http-referrer=https://Dooball66c.com/
+https://6xnoi.bananacake.org/vx-origin/02/yx9y3ZfmWCbh9r0HPBUuAQ/cb1f72dd97e65826e1f6bd073c152e01/1772645098/epl-3_480/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="https://api.bananacake.org/images/png/epl-3.png" group-title="TSET",epl-3 480p playlist
+#EXTVLCOPT:http-referrer=https://Dooball66c.com/
+https://6xnoi.bananacake.org/vx-origin/02/yx9y3ZfmWCbh9r0HPBUuAQ/cb1f72dd97e65826e1f6bd073c152e01/1772645098/epl-3_480/playlist.m3u8
+
+
+
+#############TEST#######################################################
+
 
 
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="✪BEIN SPORT HD",beIN Sports MAX 1 ᴴᴰ
