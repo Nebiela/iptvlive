@@ -5583,7 +5583,21 @@ https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/61f44d37b1883ab
 
 ############ movie tv###########################
 
-
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO
+http://1tv41.icu:8080/30796360/97446561/9264
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO 2 (A)
+http://1tv41.icu:8080/30796360/97446561/9816
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",US HBO Comedy (East)
+http://1tv41.icu:8080/30796360/97446561/17773
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",US HBO Family (East)
+http://1tv41.icu:8080/30796360/97446561/17772
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://logodix.com/logo/1111252.png",US HBO SIGNATURE (East)
+http://1tv41.icu:8080/30796360/97446561/9266
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
+http://1tv41.icu:8080/30796360/97446561/9265
 
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์" , HBO HD สำรอง1
@@ -5596,10 +5610,7 @@ https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://kupjta.online/iptv/5/385/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png"group-title="🎞️ หนังภาพยนตร์", HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
