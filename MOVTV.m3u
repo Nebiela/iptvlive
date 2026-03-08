@@ -23,6 +23,29 @@ https://raw.githubusercontent.com/Nebiela/Nebiela/refs/heads/main/New%20folder/V
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.nextpit.com/img/Telegram.jpg" group-title="Streaming TV" ,Z- Telegram กลุ่ม 
+#EXTVLCOPT:http-referrer=
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Streaming TV" ,Z- LINE กลุ่ม 
+#EXTVLCOPT:http-referrer=
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",movies24
+#EXTVLCOPT:http-user-agent=แกะลิงค์แล้ว
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="ช่องบันเทิง",movies24
+#EXTVLCOPT:http-user-agent=ห้ามแชร์เจ้าของเค้าบอกแชร์ได้
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="ช่องบันเทิง",movies24
+#EXTVLCOPT:http-user-agent=แชร์เลย
+http://49.0.64.96:8007/PING
+
+##############################################
+
+
 
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="🖥️ ดูทีวีออนไลน์" tvg-logo="https://iptv36.vercel.app/logo/nbt.png",NBT 2 HD
