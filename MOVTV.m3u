@@ -5583,20 +5583,20 @@ https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/61f44d37b1883ab
 
 ############ movie tv###########################
 
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO
 http://1tv41.icu:8080/30796360/97446561/9264
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO 2 (A)
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO 2 (A)
 http://1tv41.icu:8080/30796360/97446561/9816
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",US HBO Comedy (East)
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",US HBO Comedy (East)
 http://1tv41.icu:8080/30796360/97446561/17773
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",US HBO Family (East)
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",US HBO Family (East)
 http://1tv41.icu:8080/30796360/97446561/17772
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://logodix.com/logo/1111252.png",US HBO SIGNATURE (East)
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://logodix.com/logo/1111252.png",US HBO SIGNATURE (East)
 http://1tv41.icu:8080/30796360/97446561/9266
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
 http://1tv41.icu:8080/30796360/97446561/9265
 
 
