@@ -28,20 +28,6 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2015/02/line@.png" group-title="Streaming TV" ,Z- LINE กลุ่ม 
-#EXTVLCOPT:http-referrer=
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",1movies24 
-#EXTVLCOPT:http-user-agent=แกะลิงค์แล้ว
-http://49.0.64.96:8007/SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",2movies24
-#EXTVLCOPT:http-user-agent=ห้ามแชร์เจ้าของเค้าบอกแชร์ได้
-http://49.0.64.96:8007/IZAA
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/live-new2/refs/heads/live-new2/movie%20film%20cinema%20poster%20banner.jpg" group-title="Streaming TV",3movies24
-#EXTVLCOPT:http-user-agent=แชร์เลย
-http://49.0.64.96:8007/PING
 
 ##############################################
 
