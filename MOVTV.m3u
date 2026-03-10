@@ -1893,6 +1893,14 @@ https://s10host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 #############movie2026#######################################################3
 
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2026/03/Subedaar-2026-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-300x450.png" group-title="🎬 ดูหนังใหม่ 2026" ,ซูเบดาร์ ล้างบางอธรรม
+#EXTVLCOPT:http-referrer=https://www.123hdtv.com/
+https://main.24playerhd.com/newplaylist/c71cedc1a58cf007108c1e5a/c71cedc1a58cf007108c1e5a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2026/03/Cold-Storage-2026-300x450.png" group-title="🎬 ดูหนังใหม่ 2026" ,Cold Storage (2026)
+#EXTVLCOPT:http-referrer=https://www.123hdtv.com/
+https://main.24playerhd.com/newplaylist/742e161db07d680ee2e376b0/742e161db07d680ee2e376b0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2026/03/The-Dual-Heroes-Strike-2026-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.png" group-title="🎬 ดูหนังใหม่ 2026" ,(2026)สองฮีโร่บุกทะลวง
 #EXTVLCOPT:http-referrer=https://www.123hdtv.com/
