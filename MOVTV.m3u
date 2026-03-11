@@ -29,26 +29,45 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="Streaming TV" tvg-logo="https://i.imgur.com/LGJlmtp.png",BoxCinema 1080p
+
+##############################################
+
+
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://i.imgur.com/LGJlmtp.png",BoxCinema 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/QELTQVA/m.m3u8
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="Streaming TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema 1080p
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://gcinemahls.wns.live/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="Streaming TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network East 1080p
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network East 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://tvpass.org/live/USANetworkEast/hd
+https://v4.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=z2bbNOgn043fq6nQsTm2Kg&expires=1773221934&user_id=MjIzLjI0LjIwMS42Mg==
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="Streaming TV" tvg-logo="https://i.imgur.com/b3Ospym.png",Zylo Cine Friki (1080p)
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://i.imgur.com/b3Ospym.png",Zylo Cine Friki (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://i.imgur.com/4uTMnPb.png",BBC News Asia Pacific (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",Fox News Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://e5.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=nnMlieMDatTMUEI46b-2Yw&expires=1773222293&user_id=MjIzLjI0LjIwMS42Mg==
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="BoxCinema" tvg-name="BoxCinema" group-title="🌐Streaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",Fox News Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://e5.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=nnMlieMDatTMUEI46b-2Yw&expires=1773222293&user_id=MjIzLjI0LjIwMS42Mg==
 
 
-##############################################
+
+
+#########################################################
+
 
 
 
