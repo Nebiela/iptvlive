@@ -6659,24 +6659,6 @@ http://1tv41.icu:8080/30796360/97446561/9266
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
 http://1tv41.icu:8080/30796360/97446561/9265
 
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์" , HBO HD สำรอง1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="🎞️ หนังภาพยนตร์" , HBO HD สำรอง2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://kupjta.online/iptv/5/385/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎞️ หนังภาพยนตร์" , Cinemax สำรอง1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
