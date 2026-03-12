@@ -299,23 +299,19 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #############movie2025###############
 
-#EXTINF:-1 group-title="⚽ MonoMax" tvg-logo="https://dookeela4.live/uploads/1753517049.png",Monomax1 do66c
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball66d.com/
-https://edge-la-13.bananacake.org/s/mse_ab61c535157375006489e78f/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 สำรอง2movie
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax2-2 
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax1-1 สำรอง2movie
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://dookeela4.live/uploads/1753517049.png" group-title="⚽ MonoMax",Monomax2-1 
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
