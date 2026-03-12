@@ -6613,7 +6613,24 @@ https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/61f44d37b1883ab
 
 
 
-############ movie tv###########################
+######https://github.com/cattv976/iptv/####################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="🎞️ หนังภาพยนตร์", HBO
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattv976/movies/raw/refs/heads/main/hbo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="🎞️ หนังภาพยนตร์", Cinemax
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattv976/movies/raw/refs/heads/main/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="🎞️ หนังภาพยนตร์", Axn
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattv976/movies/raw/refs/heads/main/trueaxn.m3u8
+
+
+#######https://github.com/cattv976/iptv/#####################
+
 
 #EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
