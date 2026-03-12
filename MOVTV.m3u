@@ -28,6 +28,10 @@ http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://img.wongnai.com/p/1920x0/2024/06/27/0d1514b43ea2475da032637ddd660c4c.jpg" group-title="👨‍💻Streaming TV" ,Z- นอนเพลงฟังชิลๆ
+#EXTVLCOPT:http-referrer=
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
+
 
 
 ##############################################
@@ -402,9 +406,7 @@ https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="" group-title="⚽ MonoMax TEST",zzhbooo
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/cattv976/movies/refs/heads/main/hbo1.m3u8
+
 
 
 #############TEST#######################################################
@@ -417,7 +419,7 @@ https://raw.githubusercontent.com/cattv976/movies/refs/heads/main/hbo1.m3u8
 #EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="🖥️ GOLFSport",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="https://cdn.aptoide.com/imgs/4/2/2/42217adf33b3f1322df2dd7482d27d35_icon.png" group-title="🖥️ GOLFSport",GOLF CHANNEL HD
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
 https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
 
@@ -6619,6 +6621,10 @@ https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/61f44d37b1883ab
 
 
 ######https://github.com/cattv976/iptv/####################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png"group-title="🎞️ หนังภาพยนตร์", HBO1 กำลังทดสอบ...สถานะ ขอใจแลกเบอร์โทร
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/cattv976/movies/refs/heads/main/hbo1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="🎞️ หนังภาพยนตร์", HBO
